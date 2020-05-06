@@ -1,0 +1,1348 @@
+2018-10-10 20:15:39,429 - isce.orbit2sch - DEBUG - Peg Object: Latitude: 9.683101187825908
+Longitude: -69.80417080811915
+Heading: -12.02416871840469
+Radius of Curvature: 7037010.475085078
+
+2018-10-10 20:15:39,458 - isce.sch2orbit - DEBUG - Peg Object: Latitude: 9.683101187825908
+Longitude: -69.80417080811915
+Heading: -12.02416871840469
+Radius of Curvature: 7037010.475085078
+
+2018-10-10 20:15:39,608 - FrameInfoExtractor - DEBUG - Near Early Corner: Latitude: 9.548152789276177
+Longitude: -66.33820578802427
+Height: -0.13401874992996454
+2018-10-10 20:15:39,608 - FrameInfoExtractor - DEBUG - Near Early Look Angle: 27.513719667094634
+2018-10-10 20:15:39,608 - FrameInfoExtractor - DEBUG - Near Early Incidence Angle: 30.831864954673843 
+2018-10-10 20:15:39,608 - FrameInfoExtractor - DEBUG - Far Early Corner: Latitude: 9.703645969526232
+Longitude: -65.56752543547401
+Height: -0.2520678322762251
+2018-10-10 20:15:39,608 - FrameInfoExtractor - DEBUG - Far Early Look Angle: 32.51404989088047
+2018-10-10 20:15:39,608 - FrameInfoExtractor - DEBUG - Far Early Incidence Angle: 36.60777085551018
+2018-10-10 20:15:39,609 - FrameInfoExtractor - DEBUG - Near Late Corner: Latitude: 11.234246258148177
+Longitude: -66.68427650994346
+Height: -0.15809150505810976
+2018-10-10 20:15:39,609 - FrameInfoExtractor - DEBUG - Near Late Look Angle: 27.524317253435324
+2018-10-10 20:15:39,609 - FrameInfoExtractor - DEBUG - Near Late Incidence Angle: 30.84351595738394
+2018-10-10 20:15:39,609 - FrameInfoExtractor - DEBUG - Far Late Corner: Latitude: 11.388502813670907
+Longitude: -65.90939406217177
+Height: -0.29688071459531784
+2018-10-10 20:15:39,609 - FrameInfoExtractor - DEBUG - Far Late Look Angle: 32.522657115611764
+2018-10-10 20:15:39,609 - FrameInfoExtractor - DEBUG - Far Late Incidence Angle: 36.61718577507792
+2018-10-10 20:15:39,616 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 100.64.134.208:9200
+2018-10-10 20:15:39,621 - urllib3.connectionpool - DEBUG - http://100.64.134.208:9200 "POST //grq_v1.1_*/_search?search_type=scan&scroll=10m&size=100 HTTP/1.1" 200 2211
+2018-10-10 20:15:39,625 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 100.64.134.208:9200
+2018-10-10 20:15:39,628 - urllib3.connectionpool - DEBUG - http://100.64.134.208:9200 "POST //_search/scroll?scroll=10m HTTP/1.1" 200 171
+2018-10-10 20:15:39,632 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 100.64.134.208:9200
+2018-10-10 20:15:39,636 - urllib3.connectionpool - DEBUG - http://100.64.134.208:9200 "POST //grq_v1.1_*/_search?search_type=scan&scroll=10m&size=100 HTTP/1.1" 200 2211
+2018-10-10 20:15:39,639 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 100.64.134.208:9200
+2018-10-10 20:15:39,643 - urllib3.connectionpool - DEBUG - http://100.64.134.208:9200 "POST //_search/scroll?scroll=10m HTTP/1.1" 200 171
+2018-10-10 20:15:39,752 - isce.orbit2sch - DEBUG - Peg Object: Latitude: 9.683101187825908
+Longitude: -69.80417080811915
+Heading: -12.02416871840469
+Radius of Curvature: 7037010.475085078
+
+2018-10-10 20:15:39,762 - isce.sch2orbit - DEBUG - Peg Object: Latitude: 9.683101187825908
+Longitude: -69.80417080811915
+Heading: -12.02416871840469
+Radius of Curvature: 7037010.475085078
+
+2018-10-10 20:15:39,897 - FrameInfoExtractor - DEBUG - Near Early Corner: Latitude: 9.755866511871186
+Longitude: -65.60166016027365
+Height: -0.24938077107071877
+2018-10-10 20:15:39,897 - FrameInfoExtractor - DEBUG - Near Early Look Angle: 32.376187449009535
+2018-10-10 20:15:39,897 - FrameInfoExtractor - DEBUG - Near Early Incidence Angle: 36.44721027038033 
+2018-10-10 20:15:39,898 - FrameInfoExtractor - DEBUG - Far Early Corner: Latitude: 9.917249069527394
+Longitude: -64.79164539231601
+Height: -0.4315944565460086
+2018-10-10 20:15:39,898 - FrameInfoExtractor - DEBUG - Far Early Look Angle: 36.98378079244048
+2018-10-10 20:15:39,898 - FrameInfoExtractor - DEBUG - Far Early Incidence Angle: 41.869062231715276
+2018-10-10 20:15:39,898 - FrameInfoExtractor - DEBUG - Near Late Corner: Latitude: 11.44253886384658
+Longitude: -65.94377256818846
+Height: -0.29351929668337107
+2018-10-10 20:15:39,898 - FrameInfoExtractor - DEBUG - Near Late Look Angle: 32.38656339483838
+2018-10-10 20:15:39,898 - FrameInfoExtractor - DEBUG - Near Late Incidence Angle: 36.45859217707851
+2018-10-10 20:15:39,898 - FrameInfoExtractor - DEBUG - Far Late Corner: Latitude: 11.602307221303276
+Longitude: -65.12914479659216
+Height: -0.507217975333333
+2018-10-10 20:15:39,898 - FrameInfoExtractor - DEBUG - Far Late Look Angle: 36.992444740690296
+2018-10-10 20:15:39,898 - FrameInfoExtractor - DEBUG - Far Late Incidence Angle: 41.878515125790095
+2018-10-10 20:15:39,901 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 100.64.134.208:9200
+2018-10-10 20:15:39,905 - urllib3.connectionpool - DEBUG - http://100.64.134.208:9200 "POST //grq_v1.1_*/_search?search_type=scan&scroll=10m&size=100 HTTP/1.1" 200 2211
+2018-10-10 20:15:39,908 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 100.64.134.208:9200
+2018-10-10 20:15:39,911 - urllib3.connectionpool - DEBUG - http://100.64.134.208:9200 "POST //_search/scroll?scroll=10m HTTP/1.1" 200 171
+2018-10-10 20:15:39,915 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 100.64.134.208:9200
+2018-10-10 20:15:39,918 - urllib3.connectionpool - DEBUG - http://100.64.134.208:9200 "POST //grq_v1.1_*/_search?search_type=scan&scroll=10m&size=100 HTTP/1.1" 200 2211
+2018-10-10 20:15:39,921 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 100.64.134.208:9200
+2018-10-10 20:15:39,924 - urllib3.connectionpool - DEBUG - http://100.64.134.208:9200 "POST //_search/scroll?scroll=10m HTTP/1.1" 200 171
+2018-10-10 20:15:40,022 - isce.orbit2sch - DEBUG - Peg Object: Latitude: 9.683101187825908
+Longitude: -69.80417080811915
+Heading: -12.02416871840469
+Radius of Curvature: 7037010.475085078
+
+2018-10-10 20:15:40,032 - isce.sch2orbit - DEBUG - Peg Object: Latitude: 9.683101187825908
+Longitude: -69.80417080811915
+Heading: -12.02416871840469
+Radius of Curvature: 7037010.475085078
+
+2018-10-10 20:15:40,165 - FrameInfoExtractor - DEBUG - Near Early Corner: Latitude: 9.970500972353435
+Longitude: -64.82567539818349
+Height: -0.42821084056049585
+2018-10-10 20:15:40,165 - FrameInfoExtractor - DEBUG - Near Early Look Angle: 36.86438998646734
+2018-10-10 20:15:40,165 - FrameInfoExtractor - DEBUG - Near Early Incidence Angle: 41.72715805479516 
+2018-10-10 20:15:40,165 - FrameInfoExtractor - DEBUG - Far Early Corner: Latitude: 10.111385316116017
+Longitude: -64.10956155294187
+Height: -0.6484331227838993
+2018-10-10 20:15:40,165 - FrameInfoExtractor - DEBUG - Far Early Look Angle: 40.4243963370986
+2018-10-10 20:15:40,166 - FrameInfoExtractor - DEBUG - Far Early Incidence Angle: 46.00624525608741
+2018-10-10 20:15:40,166 - FrameInfoExtractor - DEBUG - Near Late Corner: Latitude: 11.656259996640063
+Longitude: -65.16319906985963
+Height: -0.5028328439220786
+2018-10-10 20:15:40,166 - FrameInfoExtractor - DEBUG - Near Late Look Angle: 36.874530765438436
+2018-10-10 20:15:40,166 - FrameInfoExtractor - DEBUG - Near Late Incidence Angle: 41.73825498102613
+2018-10-10 20:15:40,166 - FrameInfoExtractor - DEBUG - Far Late Corner: Latitude: 11.79544739121847
+Longitude: -64.44285499619599
+Height: -0.7604718497022986
+2018-10-10 20:15:40,166 - FrameInfoExtractor - DEBUG - Far Late Look Angle: 40.433245523511644
+2018-10-10 20:15:40,166 - FrameInfoExtractor - DEBUG - Far Late Incidence Angle: 46.01588281072776
+2018-10-10 20:15:40,169 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 100.64.134.208:9200
+2018-10-10 20:15:40,173 - urllib3.connectionpool - DEBUG - http://100.64.134.208:9200 "POST //grq_v1.1_*/_search?search_type=scan&scroll=10m&size=100 HTTP/1.1" 200 2211
+2018-10-10 20:15:40,176 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 100.64.134.208:9200
+2018-10-10 20:15:40,180 - urllib3.connectionpool - DEBUG - http://100.64.134.208:9200 "POST //_search/scroll?scroll=10m HTTP/1.1" 200 171
+2018-10-10 20:15:40,184 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 100.64.134.208:9200
+2018-10-10 20:15:40,188 - urllib3.connectionpool - DEBUG - http://100.64.134.208:9200 "POST //grq_v1.1_*/_search?search_type=scan&scroll=10m&size=100 HTTP/1.1" 200 2211
+2018-10-10 20:15:40,191 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 100.64.134.208:9200
+2018-10-10 20:15:40,194 - urllib3.connectionpool - DEBUG - http://100.64.134.208:9200 "POST //_search/scroll?scroll=10m HTTP/1.1" 200 171
+2018-10-10 20:15:40,289 - isce.orbit2sch - DEBUG - Peg Object: Latitude: 11.498088664742484
+Longitude: -70.1979170125496
+Heading: -12.051187578518723
+Radius of Curvature: 7037669.625527088
+
+2018-10-10 20:15:40,299 - isce.sch2orbit - DEBUG - Peg Object: Latitude: 11.498088664742484
+Longitude: -70.1979170125496
+Heading: -12.051187578518723
+Radius of Curvature: 7037669.625527088
+
+2018-10-10 20:15:40,433 - FrameInfoExtractor - DEBUG - Near Early Corner: Latitude: 11.216222095171457
+Longitude: -66.68060709184186
+Height: -0.15783279296010733
+2018-10-10 20:15:40,433 - FrameInfoExtractor - DEBUG - Near Early Look Angle: 27.523966704652764
+2018-10-10 20:15:40,433 - FrameInfoExtractor - DEBUG - Near Early Incidence Angle: 30.843127843352292 
+2018-10-10 20:15:40,433 - FrameInfoExtractor - DEBUG - Far Early Corner: Latitude: 11.37049270939074
+Longitude: -65.90576847865125
+Height: -0.2964018741622567
+2018-10-10 20:15:40,433 - FrameInfoExtractor - DEBUG - Far Early Look Angle: 32.522372860161994
+2018-10-10 20:15:40,433 - FrameInfoExtractor - DEBUG - Far Early Incidence Angle: 36.61687142659638
+2018-10-10 20:15:40,433 - FrameInfoExtractor - DEBUG - Near Late Corner: Latitude: 12.901626057659012
+Longitude: -67.02743181439973
+Height: -0.18126857187598944
+2018-10-10 20:15:40,433 - FrameInfoExtractor - DEBUG - Near Late Look Angle: 27.524529007470075
+2018-10-10 20:15:40,433 - FrameInfoExtractor - DEBUG - Near Late Incidence Angle: 30.843608139767714
+2018-10-10 20:15:40,433 - FrameInfoExtractor - DEBUG - Far Late Corner: Latitude: 13.054743113728183
+Longitude: -66.24748583657272
+Height: -0.3400605283677578
+2018-10-10 20:15:40,433 - FrameInfoExtractor - DEBUG - Far Late Look Angle: 32.52285393908643
+2018-10-10 20:15:40,433 - FrameInfoExtractor - DEBUG - Far Late Incidence Angle: 36.61722511747236
+2018-10-10 20:15:40,436 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 100.64.134.208:9200
+2018-10-10 20:15:40,492 - urllib3.connectionpool - DEBUG - http://100.64.134.208:9200 "POST //grq_v1.1_*/_search?search_type=scan&scroll=10m&size=100 HTTP/1.1" 200 2211
+2018-10-10 20:15:40,495 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 100.64.134.208:9200
+2018-10-10 20:15:40,499 - urllib3.connectionpool - DEBUG - http://100.64.134.208:9200 "POST //_search/scroll?scroll=10m HTTP/1.1" 200 171
+2018-10-10 20:15:40,503 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 100.64.134.208:9200
+2018-10-10 20:15:40,507 - urllib3.connectionpool - DEBUG - http://100.64.134.208:9200 "POST //grq_v1.1_*/_search?search_type=scan&scroll=10m&size=100 HTTP/1.1" 200 2211
+2018-10-10 20:15:40,510 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 100.64.134.208:9200
+2018-10-10 20:15:40,513 - urllib3.connectionpool - DEBUG - http://100.64.134.208:9200 "POST //_search/scroll?scroll=10m HTTP/1.1" 200 171
+2018-10-10 20:15:40,600 - isce.orbit2sch - DEBUG - Peg Object: Latitude: 11.498088664742484
+Longitude: -70.1979170125496
+Heading: -12.051187578518723
+Radius of Curvature: 7037669.625527088
+
+2018-10-10 20:15:40,610 - isce.sch2orbit - DEBUG - Peg Object: Latitude: 11.498088664742484
+Longitude: -70.1979170125496
+Heading: -12.051187578518723
+Radius of Curvature: 7037669.625527088
+
+2018-10-10 20:15:40,743 - FrameInfoExtractor - DEBUG - Near Early Corner: Latitude: 11.422919931027101
+Longitude: -65.93978785299214
+Height: -0.29301319271326065
+2018-10-10 20:15:40,743 - FrameInfoExtractor - DEBUG - Near Early Look Angle: 32.38654131497714
+2018-10-10 20:15:40,743 - FrameInfoExtractor - DEBUG - Near Early Incidence Angle: 36.458569597799666 
+2018-10-10 20:15:40,743 - FrameInfoExtractor - DEBUG - Far Early Corner: Latitude: 11.582706469845732
+Longitude: -65.12521975249608
+Height: -0.5063504073768854
+2018-10-10 20:15:40,743 - FrameInfoExtractor - DEBUG - Far Early Look Angle: 36.99242605734193
+2018-10-10 20:15:40,743 - FrameInfoExtractor - DEBUG - Far Early Incidence Angle: 41.87849674090571
+2018-10-10 20:15:40,743 - FrameInfoExtractor - DEBUG - Near Late Corner: Latitude: 12.941911948140909
+Longitude: -66.2489896466787
+Height: -0.3315707203000784
+2018-10-10 20:15:40,743 - FrameInfoExtractor - DEBUG - Near Late Look Angle: 32.37963488708221
+2018-10-10 20:15:40,743 - FrameInfoExtractor - DEBUG - Near Late Incidence Angle: 36.450725731557604
+2018-10-10 20:15:40,744 - FrameInfoExtractor - DEBUG - Far Late Corner: Latitude: 13.100339101842204
+Longitude: -65.42934453353604
+Height: -0.5725261894986033
+2018-10-10 20:15:40,744 - FrameInfoExtractor - DEBUG - Far Late Look Angle: 36.98669918403398
+2018-10-10 20:15:40,744 - FrameInfoExtractor - DEBUG - Far Late Incidence Angle: 41.87192189831178
+2018-10-10 20:15:40,747 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 100.64.134.208:9200
+2018-10-10 20:15:40,751 - urllib3.connectionpool - DEBUG - http://100.64.134.208:9200 "POST //grq_v1.1_*/_search?search_type=scan&scroll=10m&size=100 HTTP/1.1" 200 2211
+2018-10-10 20:15:40,754 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 100.64.134.208:9200
+2018-10-10 20:15:40,758 - urllib3.connectionpool - DEBUG - http://100.64.134.208:9200 "POST //_search/scroll?scroll=10m HTTP/1.1" 200 171
+2018-10-10 20:15:40,761 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 100.64.134.208:9200
+2018-10-10 20:15:40,765 - urllib3.connectionpool - DEBUG - http://100.64.134.208:9200 "POST //grq_v1.1_*/_search?search_type=scan&scroll=10m&size=100 HTTP/1.1" 200 2211
+2018-10-10 20:15:40,768 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 100.64.134.208:9200
+2018-10-10 20:15:40,772 - urllib3.connectionpool - DEBUG - http://100.64.134.208:9200 "POST //_search/scroll?scroll=10m HTTP/1.1" 200 171
+2018-10-10 20:15:40,859 - isce.orbit2sch - DEBUG - Peg Object: Latitude: 11.498088664742484
+Longitude: -70.1979170125496
+Heading: -12.051187578518723
+Radius of Curvature: 7037669.625527088
+
+2018-10-10 20:15:40,869 - isce.sch2orbit - DEBUG - Peg Object: Latitude: 11.498088664742484
+Longitude: -70.1979170125496
+Heading: -12.051187578518723
+Radius of Curvature: 7037669.625527088
+
+2018-10-10 20:15:41,002 - FrameInfoExtractor - DEBUG - Near Early Corner: Latitude: 11.636043789018021
+Longitude: -65.15911966210696
+Height: -0.5019592829048634
+2018-10-10 20:15:41,002 - FrameInfoExtractor - DEBUG - Near Early Look Angle: 36.874762772251565
+2018-10-10 20:15:41,002 - FrameInfoExtractor - DEBUG - Near Early Incidence Angle: 41.738515798242 
+2018-10-10 20:15:41,002 - FrameInfoExtractor - DEBUG - Far Early Corner: Latitude: 11.775250295038674
+Longitude: -64.43883500197123
+Height: -0.7591569572687149
+2018-10-10 20:15:41,002 - FrameInfoExtractor - DEBUG - Far Early Look Angle: 40.43344722095784
+2018-10-10 20:15:41,002 - FrameInfoExtractor - DEBUG - Far Early Incidence Angle: 46.01611055185996
+2018-10-10 20:15:41,002 - FrameInfoExtractor - DEBUG - Near Late Corner: Latitude: 13.154287243545587
+Longitude: -65.46302207234915
+Height: -0.5673475293442607
+2018-10-10 20:15:41,002 - FrameInfoExtractor - DEBUG - Near Late Look Angle: 36.87254758036168
+2018-10-10 20:15:41,002 - FrameInfoExtractor - DEBUG - Near Late Incidence Angle: 41.73585128211831
+2018-10-10 20:15:41,002 - FrameInfoExtractor - DEBUG - Far Late Corner: Latitude: 13.292024145517946
+Longitude: -64.73821158795819
+Height: -0.8573531955480576
+2018-10-10 20:15:41,002 - FrameInfoExtractor - DEBUG - Far Late Look Angle: 40.43154095912332
+2018-10-10 20:15:41,002 - FrameInfoExtractor - DEBUG - Far Late Incidence Angle: 46.01375494153917
+2018-10-10 20:15:41,005 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 100.64.134.208:9200
+2018-10-10 20:15:41,009 - urllib3.connectionpool - DEBUG - http://100.64.134.208:9200 "POST //grq_v1.1_*/_search?search_type=scan&scroll=10m&size=100 HTTP/1.1" 200 2211
+2018-10-10 20:15:41,012 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 100.64.134.208:9200
+2018-10-10 20:15:41,016 - urllib3.connectionpool - DEBUG - http://100.64.134.208:9200 "POST //_search/scroll?scroll=10m HTTP/1.1" 200 171
+2018-10-10 20:15:41,019 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 100.64.134.208:9200
+2018-10-10 20:15:41,023 - urllib3.connectionpool - DEBUG - http://100.64.134.208:9200 "POST //grq_v1.1_*/_search?search_type=scan&scroll=10m&size=100 HTTP/1.1" 200 2211
+2018-10-10 20:15:41,026 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 100.64.134.208:9200
+2018-10-10 20:15:41,029 - urllib3.connectionpool - DEBUG - http://100.64.134.208:9200 "POST //_search/scroll?scroll=10m HTTP/1.1" 200 171
+2018-10-10 20:15:41,109 - isce.orbit2sch - DEBUG - Peg Object: Latitude: 10.567788062660936
+Longitude: -69.99640064766366
+Heading: -12.037481362750961
+Radius of Curvature: 7037302.556109339
+
+2018-10-10 20:15:41,119 - isce.sch2orbit - DEBUG - Peg Object: Latitude: 10.567788062660936
+Longitude: -69.99640064766366
+Heading: -12.037481362750961
+Radius of Curvature: 7037302.556109339
+
+2018-10-10 20:15:41,263 - FrameInfoExtractor - DEBUG - Near Early Corner: Latitude: 10.548194498097784
+Longitude: -66.54468105078125
+Height: -0.14830042235553265
+2018-10-10 20:15:41,263 - FrameInfoExtractor - DEBUG - Near Early Look Angle: 27.516091541714914
+2018-10-10 20:15:41,263 - FrameInfoExtractor - DEBUG - Near Early Incidence Angle: 30.83442802060247 
+2018-10-10 20:15:41,263 - FrameInfoExtractor - DEBUG - Far Early Corner: Latitude: 10.703311665738628
+Longitude: -65.76983593834096
+Height: -0.2790451133623719
+2018-10-10 20:15:41,263 - FrameInfoExtractor - DEBUG - Far Early Look Angle: 32.52616362172852
+2018-10-10 20:15:41,263 - FrameInfoExtractor - DEBUG - Far Early Incidence Angle: 36.62169449815479
+2018-10-10 20:15:41,263 - FrameInfoExtractor - DEBUG - Near Late Corner: Latitude: 11.900453821059752
+Longitude: -66.82283270912559
+Height: -0.16732467990368605
+2018-10-10 20:15:41,263 - FrameInfoExtractor - DEBUG - Near Late Look Angle: 27.518319274146315
+2018-10-10 20:15:41,263 - FrameInfoExtractor - DEBUG - Near Late Incidence Angle: 30.836795104163524
+2018-10-10 20:15:41,264 - FrameInfoExtractor - DEBUG - Far Late Corner: Latitude: 12.054619906598187
+Longitude: -66.0442021351264
+Height: -0.31454010866582394
+2018-10-10 20:15:41,264 - FrameInfoExtractor - DEBUG - Far Late Look Angle: 32.52798665004926
+2018-10-10 20:15:41,264 - FrameInfoExtractor - DEBUG - Far Late Incidence Angle: 36.62358570629961
+2018-10-10 20:15:41,267 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 100.64.134.208:9200
+2018-10-10 20:15:41,270 - urllib3.connectionpool - DEBUG - http://100.64.134.208:9200 "POST //grq_v1.1_*/_search?search_type=scan&scroll=10m&size=100 HTTP/1.1" 200 2211
+2018-10-10 20:15:41,274 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 100.64.134.208:9200
+2018-10-10 20:15:41,277 - urllib3.connectionpool - DEBUG - http://100.64.134.208:9200 "POST //_search/scroll?scroll=10m HTTP/1.1" 200 171
+2018-10-10 20:15:41,281 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 100.64.134.208:9200
+2018-10-10 20:15:41,285 - urllib3.connectionpool - DEBUG - http://100.64.134.208:9200 "POST //grq_v1.1_*/_search?search_type=scan&scroll=10m&size=100 HTTP/1.1" 200 2211
+2018-10-10 20:15:41,288 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 100.64.134.208:9200
+2018-10-10 20:15:41,291 - urllib3.connectionpool - DEBUG - http://100.64.134.208:9200 "POST //_search/scroll?scroll=10m HTTP/1.1" 200 171
+2018-10-10 20:15:41,378 - isce.orbit2sch - DEBUG - Peg Object: Latitude: 10.567788062660936
+Longitude: -69.99640064766366
+Heading: -12.037481362750961
+Radius of Curvature: 7037302.556109339
+
+2018-10-10 20:15:41,388 - isce.sch2orbit - DEBUG - Peg Object: Latitude: 10.567788062660936
+Longitude: -69.99640064766366
+Heading: -12.037481362750961
+Radius of Curvature: 7037302.556109339
+
+2018-10-10 20:15:41,524 - FrameInfoExtractor - DEBUG - Near Early Corner: Latitude: 10.589815021155582
+Longitude: -65.77144080116561
+Height: -0.2713675703853369
+2018-10-10 20:15:41,524 - FrameInfoExtractor - DEBUG - Near Early Look Angle: 32.3831592553331
+2018-10-10 20:15:41,524 - FrameInfoExtractor - DEBUG - Near Early Incidence Angle: 36.45488872439968 
+2018-10-10 20:15:41,524 - FrameInfoExtractor - DEBUG - Far Early Corner: Latitude: 10.750349909793337
+Longitude: -64.9595227469593
+Height: -0.4691886408254504
+2018-10-10 20:15:41,524 - FrameInfoExtractor - DEBUG - Far Early Look Angle: 36.98827861512835
+2018-10-10 20:15:41,524 - FrameInfoExtractor - DEBUG - Far Early Incidence Angle: 41.87387641615711
+2018-10-10 20:15:41,524 - FrameInfoExtractor - DEBUG - Near Late Corner: Latitude: 12.108406067223395
+Longitude: -66.0799519724545
+Height: -0.310576930642128
+2018-10-10 20:15:41,524 - FrameInfoExtractor - DEBUG - Near Late Look Angle: 32.38487491697823
+2018-10-10 20:15:41,524 - FrameInfoExtractor - DEBUG - Near Late Incidence Angle: 36.45664484048738
+2018-10-10 20:15:41,524 - FrameInfoExtractor - DEBUG - Far Late Corner: Latitude: 12.267532528155234
+Longitude: -65.26344928326174
+Height: -0.536400044336915
+2018-10-10 20:15:41,524 - FrameInfoExtractor - DEBUG - Far Late Look Angle: 36.989730134160105
+2018-10-10 20:15:41,524 - FrameInfoExtractor - DEBUG - Far Late Incidence Angle: 41.87530670880373
+2018-10-10 20:15:41,528 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 100.64.134.208:9200
+2018-10-10 20:15:41,532 - urllib3.connectionpool - DEBUG - http://100.64.134.208:9200 "POST //grq_v1.1_*/_search?search_type=scan&scroll=10m&size=100 HTTP/1.1" 200 2211
+2018-10-10 20:15:41,535 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 100.64.134.208:9200
+2018-10-10 20:15:41,538 - urllib3.connectionpool - DEBUG - http://100.64.134.208:9200 "POST //_search/scroll?scroll=10m HTTP/1.1" 200 171
+2018-10-10 20:15:41,541 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 100.64.134.208:9200
+2018-10-10 20:15:41,545 - urllib3.connectionpool - DEBUG - http://100.64.134.208:9200 "POST //grq_v1.1_*/_search?search_type=scan&scroll=10m&size=100 HTTP/1.1" 200 2211
+2018-10-10 20:15:41,548 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 100.64.134.208:9200
+2018-10-10 20:15:41,552 - urllib3.connectionpool - DEBUG - http://100.64.134.208:9200 "POST //_search/scroll?scroll=10m HTTP/1.1" 200 171
+2018-10-10 20:15:41,638 - isce.orbit2sch - DEBUG - Peg Object: Latitude: 10.567788062660936
+Longitude: -69.99640064766366
+Heading: -12.037481362750961
+Radius of Curvature: 7037302.556109339
+
+2018-10-10 20:15:41,648 - isce.sch2orbit - DEBUG - Peg Object: Latitude: 10.567788062660936
+Longitude: -69.99640064766366
+Heading: -12.037481362750961
+Radius of Curvature: 7037302.556109339
+
+2018-10-10 20:15:41,782 - FrameInfoExtractor - DEBUG - Near Early Corner: Latitude: 10.80368787991557
+Longitude: -64.99326683394034
+Height: -0.46535966265946627
+2018-10-10 20:15:41,782 - FrameInfoExtractor - DEBUG - Near Early Look Angle: 36.87079238235769
+2018-10-10 20:15:41,782 - FrameInfoExtractor - DEBUG - Near Early Incidence Angle: 41.73419383284669 
+2018-10-10 20:15:41,782 - FrameInfoExtractor - DEBUG - Far Early Corner: Latitude: 10.94342591778384
+Longitude: -64.27676365476829
+Height: -0.7036076486110687
+2018-10-10 20:15:41,782 - FrameInfoExtractor - DEBUG - Far Early Look Angle: 40.422570772322445
+2018-10-10 20:15:41,782 - FrameInfoExtractor - DEBUG - Far Early Incidence Angle: 46.00335171892831
+2018-10-10 20:15:41,782 - FrameInfoExtractor - DEBUG - Near Late Corner: Latitude: 12.321856706340233
+Longitude: -65.2970283265848
+Height: -0.5317878741770983
+2018-10-10 20:15:41,782 - FrameInfoExtractor - DEBUG - Near Late Look Angle: 36.87579774159253
+2018-10-10 20:15:41,782 - FrameInfoExtractor - DEBUG - Near Late Incidence Angle: 41.73958100961778
+2018-10-10 20:15:41,782 - FrameInfoExtractor - DEBUG - Far Late Corner: Latitude: 12.460094247662907
+Longitude: -64.57640495212411
+Height: -0.8032473288476467
+2018-10-10 20:15:41,782 - FrameInfoExtractor - DEBUG - Far Late Look Angle: 40.42695001236185
+2018-10-10 20:15:41,782 - FrameInfoExtractor - DEBUG - Far Late Incidence Angle: 46.008016500464976
+2018-10-10 20:15:41,785 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 100.64.134.208:9200
+2018-10-10 20:15:41,789 - urllib3.connectionpool - DEBUG - http://100.64.134.208:9200 "POST //grq_v1.1_*/_search?search_type=scan&scroll=10m&size=100 HTTP/1.1" 200 2211
+2018-10-10 20:15:41,793 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 100.64.134.208:9200
+2018-10-10 20:15:41,796 - urllib3.connectionpool - DEBUG - http://100.64.134.208:9200 "POST //_search/scroll?scroll=10m HTTP/1.1" 200 171
+2018-10-10 20:15:41,800 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 100.64.134.208:9200
+2018-10-10 20:15:41,803 - urllib3.connectionpool - DEBUG - http://100.64.134.208:9200 "POST //grq_v1.1_*/_search?search_type=scan&scroll=10m&size=100 HTTP/1.1" 200 2211
+2018-10-10 20:15:41,806 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 100.64.134.208:9200
+2018-10-10 20:15:41,810 - urllib3.connectionpool - DEBUG - http://100.64.134.208:9200 "POST //_search/scroll?scroll=10m HTTP/1.1" 200 171
+2018-10-10 20:15:42,204 - isce.contrib.demUtils.DemStitcher - WARNING - There was a problem in retrieving the file  http://hysds-v2-dev-product-bucket.s3-website-us-west-2.amazonaws.com/datasets/dem/SRTM1_v3/N13W068.hgt.zip. Exception 
+2018-10-10 20:15:42,323 - isce.contrib.demUtils.DemStitcher - WARNING - There was a problem in retrieving the file  http://hysds-v2-dev-product-bucket.s3-website-us-west-2.amazonaws.com/datasets/dem/SRTM1_v3/N13W067.hgt.zip. Exception 
+2018-10-10 20:15:42,459 - isce.contrib.demUtils.DemStitcher - WARNING - There was a problem in retrieving the file  http://hysds-v2-dev-product-bucket.s3-website-us-west-2.amazonaws.com/datasets/dem/SRTM1_v3/N13W066.hgt.zip. Exception 
+2018-10-10 20:15:42,578 - isce.contrib.demUtils.DemStitcher - WARNING - There was a problem in retrieving the file  http://hysds-v2-dev-product-bucket.s3-website-us-west-2.amazonaws.com/datasets/dem/SRTM1_v3/N13W065.hgt.zip. Exception 
+2018-10-10 20:15:42,698 - isce.contrib.demUtils.DemStitcher - WARNING - There was a problem in retrieving the file  http://hysds-v2-dev-product-bucket.s3-website-us-west-2.amazonaws.com/datasets/dem/SRTM1_v3/N12W068.hgt.zip. Exception 
+2018-10-10 20:15:42,785 - isce.contrib.demUtils.DemStitcher - WARNING - There was a problem in retrieving the file  http://hysds-v2-dev-product-bucket.s3-website-us-west-2.amazonaws.com/datasets/dem/SRTM1_v3/N12W067.hgt.zip. Exception 
+2018-10-10 20:15:42,897 - isce.contrib.demUtils.DemStitcher - WARNING - There was a problem in retrieving the file  http://hysds-v2-dev-product-bucket.s3-website-us-west-2.amazonaws.com/datasets/dem/SRTM1_v3/N12W066.hgt.zip. Exception 
+2018-10-10 20:15:43,005 - isce.contrib.demUtils.DemStitcher - WARNING - There was a problem in retrieving the file  http://hysds-v2-dev-product-bucket.s3-website-us-west-2.amazonaws.com/datasets/dem/SRTM1_v3/N12W065.hgt.zip. Exception 
+2018-10-10 20:15:43,473 - isce.contrib.demUtils.DemStitcher - WARNING - There was a problem in retrieving the file  http://hysds-v2-dev-product-bucket.s3-website-us-west-2.amazonaws.com/datasets/dem/SRTM1_v3/N11W066.hgt.zip. Exception 
+2018-10-10 20:16:01,964 - isce.insar - INFO - ISCE VERSION = 2.1.0, RELEASE_SVN_REVISION = 2366,RELEASE_DATE = 20170806, CURRENT_SVN_REVISION = 2477M
+2018-10-10 20:16:02,065 - isce.insar - WARNING - Some filenames in insarApp.geocode_list configuration are different from those in InsarProc. Using names given to insarApp.
+2018-10-10 20:16:08,355 - isce.topsinsar.runPreprocessor - INFO - 
+####################################################################################################
+    runPreprocessor
+----------------------------------------------------------------------------------------------------
+common.Input list of swaths to process:  = [1, 2, 3]
+master.burstLength_1 = 1487
+master.burstLength_2 = 1498
+master.burstLength_3 = 1503
+master.burstWidth_1 = 20638
+master.burstWidth_2 = 24578
+master.burstWidth_3 = 23765
+master.numberOfBursts_1 = 8
+master.numberOfBursts_2 = 9
+master.numberOfBursts_3 = 9
+master.sensor.ascendingnodetime = 2018-09-17 20:52:30.569446
+master.sensor.family = topsswathslc
+master.sensor.folder = None
+master.sensor.imagingmode = TOPS
+master.sensor.mission = S1B
+master.sensor.name = topsswathslc_name
+master.sensor.numberofbursts = 9
+master.sensor.processingfacility = Airbus DS-Newport, United Kingdom
+master.sensor.processingsoftwareversion = 002.91
+master.sensor.processingsystem = Sentinel-1 IPF
+master.sensor.spacecraftname = Sentinel-1
+slave.burstLength_1 = 1488
+slave.burstLength_2 = 1500
+slave.burstLength_3 = 1505
+slave.burstWidth_1 = 20590
+slave.burstWidth_2 = 24586
+slave.burstWidth_3 = 23820
+slave.numberOfBursts_1 = 20
+slave.numberOfBursts_2 = 19
+slave.numberOfBursts_3 = 19
+slave.sensor.ascendingnodetime = 2018-09-11 22:31:56.843333
+slave.sensor.family = topsswathslc
+slave.sensor.folder = None
+slave.sensor.imagingmode = TOPS
+slave.sensor.mission = S1A
+slave.sensor.name = topsswathslc_name
+slave.sensor.numberofbursts = 19
+slave.sensor.processingfacility = None
+slave.sensor.processingsoftwareversion = 002.91
+slave.sensor.processingsystem = None
+slave.sensor.spacecraftname = None
+####################################################################################################
+2018-10-10 20:16:14,084 - isce.topsinsar.runPreprocessor - INFO - 
+####################################################################################################
+    runComputeBaseline
+----------------------------------------------------------------------------------------------------
+baseline.IW-1 Bpar at midrange for first common burst = 32.80865405653362
+baseline.IW-1 Bpar at midrange for last common burst = 33.86547863209098
+baseline.IW-1 Bperp at midrange for first common burst = -77.53528200180052
+baseline.IW-1 Bperp at midrange for last common burst = -78.89690041856143
+baseline.IW-1 First common burst in master = 0
+baseline.IW-1 First common burst in slave = 6
+baseline.IW-1 Last common burst in master = 8
+baseline.IW-1 Last common burst in slave = 14
+baseline.IW-1 Number of bursts in master = 8
+baseline.IW-1 Number of bursts in slave = 20
+baseline.IW-1 Number of common bursts = 8
+baseline.IW-2 Bpar at midrange for first common burst = 38.83914480463336
+baseline.IW-2 Bpar at midrange for last common burst = 40.16834798199074
+baseline.IW-2 Bperp at midrange for first common burst = -74.63145381783372
+baseline.IW-2 Bperp at midrange for last common burst = -76.07877205833404
+baseline.IW-2 First common burst in master = 0
+baseline.IW-2 First common burst in slave = 5
+baseline.IW-2 Last common burst in master = 9
+baseline.IW-2 Last common burst in slave = 14
+baseline.IW-2 Number of bursts in master = 9
+baseline.IW-2 Number of bursts in slave = 19
+baseline.IW-2 Number of common bursts = 9
+baseline.IW-3 Bpar at midrange for first common burst = 43.869664315773875
+baseline.IW-3 Bpar at midrange for last common burst = 45.29414448194629
+baseline.IW-3 Bperp at midrange for first common burst = -72.01520203675615
+baseline.IW-3 Bperp at midrange for last common burst = -73.36030573280948
+baseline.IW-3 First common burst in master = 0
+baseline.IW-3 First common burst in slave = 5
+baseline.IW-3 Last common burst in master = 9
+baseline.IW-3 Last common burst in slave = 14
+baseline.IW-3 Number of bursts in master = 9
+baseline.IW-3 Number of bursts in slave = 19
+baseline.IW-3 Number of common bursts = 9
+####################################################################################################
+2018-10-10 20:16:14,544 - isce.zerodop.topozero - WARNING - Default Peg heading set to: -0.2111409167906251
+2018-10-10 20:16:50,243 - isce.zerodop.topozero - WARNING - Default Peg heading set to: -0.21118086892216803
+2018-10-10 20:17:10,699 - isce.zerodop.topozero - WARNING - Default Peg heading set to: -0.2112214448282953
+2018-10-10 20:17:30,982 - isce.zerodop.topozero - WARNING - Default Peg heading set to: -0.21126273393967376
+2018-10-10 20:17:51,329 - isce.zerodop.topozero - WARNING - Default Peg heading set to: -0.21130480137094546
+2018-10-10 20:18:11,596 - isce.zerodop.topozero - WARNING - Default Peg heading set to: -0.211347620619519
+2018-10-10 20:18:32,012 - isce.zerodop.topozero - WARNING - Default Peg heading set to: -0.2113911629295696
+2018-10-10 20:18:53,621 - isce.zerodop.topozero - WARNING - Default Peg heading set to: -0.21143553035261575
+2018-10-10 20:19:15,776 - isce.zerodop.topozero - WARNING - Default Peg heading set to: -0.21111547360599653
+2018-10-10 20:19:39,413 - isce.zerodop.topozero - WARNING - Default Peg heading set to: -0.21115473850661942
+2018-10-10 20:20:05,290 - isce.zerodop.topozero - WARNING - Default Peg heading set to: -0.21119485940449886
+2018-10-10 20:20:28,977 - isce.zerodop.topozero - WARNING - Default Peg heading set to: -0.21123566238885258
+2018-10-10 20:20:52,877 - isce.zerodop.topozero - WARNING - Default Peg heading set to: -0.21127724099451853
+2018-10-10 20:21:16,914 - isce.zerodop.topozero - WARNING - Default Peg heading set to: -0.21131960054477425
+2018-10-10 20:21:40,950 - isce.zerodop.topozero - WARNING - Default Peg heading set to: -0.21136264971836927
+2018-10-10 20:22:04,883 - isce.zerodop.topozero - WARNING - Default Peg heading set to: -0.2114064548856088
+2018-10-10 20:22:28,736 - isce.zerodop.topozero - WARNING - Default Peg heading set to: -0.21145108688037306
+2018-10-10 20:22:52,875 - isce.zerodop.topozero - WARNING - Default Peg heading set to: -0.2111290993288827
+2018-10-10 20:23:25,590 - isce.zerodop.topozero - WARNING - Default Peg heading set to: -0.21116868001245373
+2018-10-10 20:23:54,411 - isce.zerodop.topozero - WARNING - Default Peg heading set to: -0.21120899986268582
+2018-10-10 20:24:24,338 - isce.zerodop.topozero - WARNING - Default Peg heading set to: -0.21125009285699523
+2018-10-10 20:24:54,902 - isce.zerodop.topozero - WARNING - Default Peg heading set to: -0.2112920269132394
+2018-10-10 20:25:26,146 - isce.zerodop.topozero - WARNING - Default Peg heading set to: -0.21133461881083554
+2018-10-10 20:25:57,779 - isce.zerodop.topozero - WARNING - Default Peg heading set to: -0.2113779002301333
+2018-10-10 20:26:28,604 - isce.zerodop.topozero - WARNING - Default Peg heading set to: -0.21142200411746864
+2018-10-10 20:26:58,772 - isce.zerodop.topozero - WARNING - Default Peg heading set to: -0.2114668702819597
+2018-10-10 20:27:28,489 - isce.topsinsar.topo - INFO - 
+####################################################################################################
+    runTopo
+----------------------------------------------------------------------------------------------------
+topo.Bounding box for burst 0 - IW-1 = [10.55094193573527, 10.88577893577792, -66.58340201390546, -65.7705085523156]
+topo.Bounding box for burst 0 - IW-2 = [10.587511162512284, 10.933890119052702, -65.81030358960645, -64.96044599738275]
+topo.Bounding box for burst 0 - IW-3 = [10.801474585856724, 11.127481738191836, -65.03136921422498, -64.27738122460593]
+topo.Bounding box for burst 1 - IW-1 = [10.713378567898886, 11.053010308754036, -66.6177965079454, -65.80444135934273]
+topo.Bounding box for burst 1 - IW-2 = [10.75387926334152, 11.100100514953867, -65.84407031686007, -64.99375808129935]
+topo.Bounding box for burst 1 - IW-3 = [10.967938488986343, 11.29378037192679, -65.06472214124135, -64.31032615737965]
+topo.Bounding box for burst 2 - IW-1 = [10.880230159958773, 11.219743458795, -66.65207484420591, -65.83826609629939]
+topo.Bounding box for burst 2 - IW-2 = [10.920743109772705, 11.266804650521369, -65.87793107984166, -65.02715459511262]
+topo.Bounding box for burst 2 - IW-3 = [11.134401620357687, 11.460078536340578, -65.09807078924027, -64.34324957705803]
+topo.Bounding box for burst 3 - IW-1 = [11.046952496980424, 11.386350962217596, -66.68632898168445, -65.87205875393687]
+topo.Bounding box for burst 3 - IW-2 = [11.087357174516283, 11.433259674396675, -65.91173494826127, -65.06048664212112]
+topo.Bounding box for burst 3 - IW-3 = [11.300986109630925, 11.626500210255825, -65.1314302813544, -64.37617633407358]
+topo.Bounding box for burst 4 - IW-1 = [11.213800219468874, 11.553078845920947, -66.72059531363337, -65.90587008722075]
+topo.Bounding box for burst 4 - IW-2 = [11.254094161745533, 11.599837935814659, -65.94555791495364, -65.09383917938402]
+topo.Bounding box for burst 4 - IW-3 = [11.467942068848952, 11.793291614026726, -65.16485058094943, -64.40915571092113]
+topo.Bounding box for burst 5 - IW-1 = [11.38064902359728, 11.719805293544239, -66.7548637342186, -65.93968736694852]
+topo.Bounding box for burst 5 - IW-2 = [11.420953950019804, 11.76653931068918, -65.97941248704383, -65.12721251810459]
+topo.Bounding box for burst 5 - IW-3 = [11.634524665441118, 11.959710321111825, -65.19819308270104, -64.44204960753528]
+topo.Bounding box for burst 6 - IW-1 = [11.547371413105436, 11.88640115771447, -66.78912413177595, -65.97347366621187]
+topo.Bounding box for burst 6 - IW-2 = [11.587561383784605, 11.932989448396635, -66.01322346218909, -65.16051244439944]
+topo.Bounding box for burst 6 - IW-3 = [11.800856098645719, 12.125878709992453, -65.23146286175701, -64.47487429020292]
+topo.Bounding box for burst 7 - IW-1 = [11.714337322066994, 12.053243890954489, -66.8234535318614, -66.00731701120561]
+topo.Bounding box for burst 7 - IW-2 = [11.75416489226779, 12.099440446865197, -66.04704123157155, -65.1938090543212]
+topo.Bounding box for burst 7 - IW-3 = [11.967436628440012, 12.292295957952327, -65.2647797086348, -64.50773671662428]
+topo.Bounding box for burst 8 - IW-2 = [11.921015301660285, 12.266138537099696, -66.080905526041, -65.22713218943366]
+topo.Bounding box for burst 8 - IW-3 = [12.134013932018911, 12.458712445199023, -65.29807412441518, -64.5405708230073]
+topo.Dem Used = /data/work/jobs/2018/10/10/20/10/sentinel_ifg-singlescene-S1-IFG_RM_M1S2_TN135_20180917T223422-20180911T223423_s123-poeorb-e6be-standard_product-20181010T200826.408504Z/preprocess_dem/demLat_N09_N14_Lon_W068_W064.dem.wgs84
+topo.Number of common bursts IW-1 = 8
+topo.Number of common bursts IW-2 = 9
+topo.Number of common bursts IW-3 = 9
+topo.Number of lines for burst 0 - IW-1 = 1487
+topo.Number of lines for burst 0 - IW-2 = 1498
+topo.Number of lines for burst 0 - IW-3 = 1503
+topo.Number of lines for burst 1 - IW-1 = 1487
+topo.Number of lines for burst 1 - IW-2 = 1498
+topo.Number of lines for burst 1 - IW-3 = 1503
+topo.Number of lines for burst 2 - IW-1 = 1487
+topo.Number of lines for burst 2 - IW-2 = 1498
+topo.Number of lines for burst 2 - IW-3 = 1503
+topo.Number of lines for burst 3 - IW-1 = 1487
+topo.Number of lines for burst 3 - IW-2 = 1498
+topo.Number of lines for burst 3 - IW-3 = 1503
+topo.Number of lines for burst 4 - IW-1 = 1487
+topo.Number of lines for burst 4 - IW-2 = 1498
+topo.Number of lines for burst 4 - IW-3 = 1503
+topo.Number of lines for burst 5 - IW-1 = 1487
+topo.Number of lines for burst 5 - IW-2 = 1498
+topo.Number of lines for burst 5 - IW-3 = 1503
+topo.Number of lines for burst 6 - IW-1 = 1487
+topo.Number of lines for burst 6 - IW-2 = 1498
+topo.Number of lines for burst 6 - IW-3 = 1503
+topo.Number of lines for burst 7 - IW-1 = 1487
+topo.Number of lines for burst 7 - IW-2 = 1498
+topo.Number of lines for burst 7 - IW-3 = 1503
+topo.Number of lines for burst 8 - IW-2 = 1498
+topo.Number of lines for burst 8 - IW-3 = 1503
+topo.Number of pixels for bursts 0 - IW-1 = 20638
+topo.Number of pixels for bursts 0 - IW-2 = 24578
+topo.Number of pixels for bursts 0 - IW-3 = 23765
+topo.Number of pixels for bursts 1 - IW-1 = 20638
+topo.Number of pixels for bursts 1 - IW-2 = 24578
+topo.Number of pixels for bursts 1 - IW-3 = 23765
+topo.Number of pixels for bursts 2 - IW-1 = 20638
+topo.Number of pixels for bursts 2 - IW-2 = 24578
+topo.Number of pixels for bursts 2 - IW-3 = 23765
+topo.Number of pixels for bursts 3 - IW-1 = 20638
+topo.Number of pixels for bursts 3 - IW-2 = 24578
+topo.Number of pixels for bursts 3 - IW-3 = 23765
+topo.Number of pixels for bursts 4 - IW-1 = 20638
+topo.Number of pixels for bursts 4 - IW-2 = 24578
+topo.Number of pixels for bursts 4 - IW-3 = 23765
+topo.Number of pixels for bursts 5 - IW-1 = 20638
+topo.Number of pixels for bursts 5 - IW-2 = 24578
+topo.Number of pixels for bursts 5 - IW-3 = 23765
+topo.Number of pixels for bursts 6 - IW-1 = 20638
+topo.Number of pixels for bursts 6 - IW-2 = 24578
+topo.Number of pixels for bursts 6 - IW-3 = 23765
+topo.Number of pixels for bursts 7 - IW-1 = 20638
+topo.Number of pixels for bursts 7 - IW-2 = 24578
+topo.Number of pixels for bursts 7 - IW-3 = 23765
+topo.Number of pixels for bursts 8 - IW-2 = 24578
+topo.Number of pixels for bursts 8 - IW-3 = 23765
+topo.Overall bounding box = [10.55094193573527, 12.458712445199023, -66.8234535318614, -64.27738122460593]
+####################################################################################################
+2018-10-10 20:27:31,337 - isce.topsinsar.overlaps - INFO - 
+####################################################################################################
+    runSubsetOverlaps
+----------------------------------------------------------------------------------------------------
+subset.Overlap 0 number of lines - IW-1 = 141
+subset.Overlap 0 number of lines - IW-2 = 159
+subset.Overlap 0 number of lines - IW-3 = 162
+subset.Overlap 0 number of valid lines - IW-1 = 104
+subset.Overlap 0 number of valid lines - IW-2 = 109
+subset.Overlap 0 number of valid lines - IW-3 = 109
+subset.Overlap 0 start time - IW-1 = 2018-09-17 22:34:00.917074
+subset.Overlap 0 start time - IW-2 = 2018-09-17 22:33:59.102018
+subset.Overlap 0 start time - IW-3 = 2018-09-17 22:34:00.061963
+subset.Overlap 0 stop time - IW-1 = 2018-09-17 22:34:01.204853
+subset.Overlap 0 stop time - IW-2 = 2018-09-17 22:33:59.426796
+subset.Overlap 0 stop time - IW-3 = 2018-09-17 22:34:00.392908
+subset.Overlap 1 number of lines - IW-1 = 145
+subset.Overlap 1 number of lines - IW-2 = 155
+subset.Overlap 1 number of lines - IW-3 = 162
+subset.Overlap 1 number of valid lines - IW-1 = 111
+subset.Overlap 1 number of valid lines - IW-2 = 109
+subset.Overlap 1 number of valid lines - IW-3 = 110
+subset.Overlap 1 start time - IW-1 = 2018-09-17 22:34:03.675631
+subset.Overlap 1 start time - IW-2 = 2018-09-17 22:34:01.862630
+subset.Overlap 1 start time - IW-3 = 2018-09-17 22:34:02.818464
+subset.Overlap 1 stop time - IW-1 = 2018-09-17 22:34:03.971631
+subset.Overlap 1 stop time - IW-2 = 2018-09-17 22:34:02.179186
+subset.Overlap 1 stop time - IW-3 = 2018-09-17 22:34:03.149409
+subset.Overlap 2 number of lines - IW-1 = 146
+subset.Overlap 2 number of lines - IW-2 = 157
+subset.Overlap 2 number of lines - IW-3 = 161
+subset.Overlap 2 number of valid lines - IW-1 = 112
+subset.Overlap 2 number of valid lines - IW-2 = 111
+subset.Overlap 2 number of valid lines - IW-3 = 111
+subset.Overlap 2 start time - IW-1 = 2018-09-17 22:34:06.432132
+subset.Overlap 2 start time - IW-2 = 2018-09-17 22:34:04.619131
+subset.Overlap 2 start time - IW-3 = 2018-09-17 22:34:05.577021
+subset.Overlap 2 stop time - IW-1 = 2018-09-17 22:34:06.730188
+subset.Overlap 2 stop time - IW-2 = 2018-09-17 22:34:04.939798
+subset.Overlap 2 stop time - IW-3 = 2018-09-17 22:34:05.905910
+subset.Overlap 3 number of lines - IW-1 = 145
+subset.Overlap 3 number of lines - IW-2 = 156
+subset.Overlap 3 number of lines - IW-3 = 158
+subset.Overlap 3 number of valid lines - IW-1 = 110
+subset.Overlap 3 number of valid lines - IW-2 = 110
+subset.Overlap 3 number of valid lines - IW-3 = 107
+subset.Overlap 3 start time - IW-1 = 2018-09-17 22:34:09.190688
+subset.Overlap 3 start time - IW-2 = 2018-09-17 22:34:07.377688
+subset.Overlap 3 start time - IW-3 = 2018-09-17 22:34:08.341744
+subset.Overlap 3 stop time - IW-1 = 2018-09-17 22:34:09.486689
+subset.Overlap 3 stop time - IW-2 = 2018-09-17 22:34:07.696299
+subset.Overlap 3 stop time - IW-3 = 2018-09-17 22:34:08.664467
+subset.Overlap 4 number of lines - IW-1 = 145
+subset.Overlap 4 number of lines - IW-2 = 155
+subset.Overlap 4 number of lines - IW-3 = 161
+subset.Overlap 4 number of valid lines - IW-1 = 111
+subset.Overlap 4 number of valid lines - IW-2 = 108
+subset.Overlap 4 number of valid lines - IW-3 = 110
+subset.Overlap 4 start time - IW-1 = 2018-09-17 22:34:11.949245
+subset.Overlap 4 start time - IW-2 = 2018-09-17 22:34:10.138300
+subset.Overlap 4 start time - IW-3 = 2018-09-17 22:34:11.100300
+subset.Overlap 4 stop time - IW-1 = 2018-09-17 22:34:12.245245
+subset.Overlap 4 stop time - IW-2 = 2018-09-17 22:34:10.454856
+subset.Overlap 4 stop time - IW-3 = 2018-09-17 22:34:11.429190
+subset.Overlap 5 number of lines - IW-1 = 146
+subset.Overlap 5 number of lines - IW-2 = 157
+subset.Overlap 5 number of lines - IW-3 = 163
+subset.Overlap 5 number of valid lines - IW-1 = 112
+subset.Overlap 5 number of valid lines - IW-2 = 111
+subset.Overlap 5 number of valid lines - IW-3 = 113
+subset.Overlap 5 start time - IW-1 = 2018-09-17 22:34:14.705746
+subset.Overlap 5 start time - IW-2 = 2018-09-17 22:34:12.894801
+subset.Overlap 5 start time - IW-3 = 2018-09-17 22:34:13.854746
+subset.Overlap 5 stop time - IW-1 = 2018-09-17 22:34:15.003802
+subset.Overlap 5 stop time - IW-2 = 2018-09-17 22:34:13.215468
+subset.Overlap 5 stop time - IW-3 = 2018-09-17 22:34:14.187746
+subset.Overlap 6 number of lines - IW-1 = 144
+subset.Overlap 6 number of lines - IW-2 = 157
+subset.Overlap 6 number of lines - IW-3 = 161
+subset.Overlap 6 number of valid lines - IW-1 = 111
+subset.Overlap 6 number of valid lines - IW-2 = 111
+subset.Overlap 6 number of valid lines - IW-3 = 111
+subset.Overlap 6 start time - IW-1 = 2018-09-17 22:34:17.466358
+subset.Overlap 6 start time - IW-2 = 2018-09-17 22:34:15.651302
+subset.Overlap 6 start time - IW-3 = 2018-09-17 22:34:16.613302
+subset.Overlap 6 stop time - IW-1 = 2018-09-17 22:34:17.760303
+subset.Overlap 6 stop time - IW-2 = 2018-09-17 22:34:15.971969
+subset.Overlap 6 stop time - IW-3 = 2018-09-17 22:34:16.942192
+subset.Overlap 7 number of lines - IW-2 = 155
+subset.Overlap 7 number of lines - IW-3 = 161
+subset.Overlap 7 number of valid lines - IW-2 = 109
+subset.Overlap 7 number of valid lines - IW-3 = 112
+subset.Overlap 7 start time - IW-2 = 2018-09-17 22:34:18.411914
+subset.Overlap 7 start time - IW-3 = 2018-09-17 22:34:19.371859
+subset.Overlap 7 stop time - IW-2 = 2018-09-17 22:34:18.728470
+subset.Overlap 7 stop time - IW-3 = 2018-09-17 22:34:19.700748
+####################################################################################################
+2018-10-10 20:27:32,295 - isce.topsinsar.coarseoffsets - INFO - Overlap pair 0, IW-1: Burst 0 of master matched with Burst 6 of slave
+2018-10-10 20:27:32,317 - isce.topsinsar.coarseoffsets - INFO - Additional time offset applied in geo2rdr: 0.0 secs
+2018-10-10 20:27:32,317 - isce.topsinsar.coarseoffsets - INFO - Additional range offset applied in geo2rdr: 0.0 m
+2018-10-10 20:27:33,162 - isce.topsinsar.coarseoffsets - INFO - Overlap pair 0 - IW-1: Burst 1 of master matched with Burst 7 of slave
+2018-10-10 20:27:33,186 - isce.topsinsar.coarseoffsets - INFO - Additional time offset applied in geo2rdr: 0.0 secs
+2018-10-10 20:27:33,186 - isce.topsinsar.coarseoffsets - INFO - Additional range offset applied in geo2rdr: 0.0 m
+2018-10-10 20:27:34,020 - isce.topsinsar.coarseoffsets - INFO - Overlap pair 1, IW-1: Burst 1 of master matched with Burst 7 of slave
+2018-10-10 20:27:34,044 - isce.topsinsar.coarseoffsets - INFO - Additional time offset applied in geo2rdr: 0.0 secs
+2018-10-10 20:27:34,044 - isce.topsinsar.coarseoffsets - INFO - Additional range offset applied in geo2rdr: 0.0 m
+2018-10-10 20:27:34,945 - isce.topsinsar.coarseoffsets - INFO - Overlap pair 1 - IW-1: Burst 2 of master matched with Burst 8 of slave
+2018-10-10 20:27:34,969 - isce.topsinsar.coarseoffsets - INFO - Additional time offset applied in geo2rdr: 0.0 secs
+2018-10-10 20:27:34,969 - isce.topsinsar.coarseoffsets - INFO - Additional range offset applied in geo2rdr: 0.0 m
+2018-10-10 20:27:35,872 - isce.topsinsar.coarseoffsets - INFO - Overlap pair 2, IW-1: Burst 2 of master matched with Burst 8 of slave
+2018-10-10 20:27:35,896 - isce.topsinsar.coarseoffsets - INFO - Additional time offset applied in geo2rdr: 0.0 secs
+2018-10-10 20:27:35,896 - isce.topsinsar.coarseoffsets - INFO - Additional range offset applied in geo2rdr: 0.0 m
+2018-10-10 20:27:36,819 - isce.topsinsar.coarseoffsets - INFO - Overlap pair 2 - IW-1: Burst 3 of master matched with Burst 9 of slave
+2018-10-10 20:27:36,844 - isce.topsinsar.coarseoffsets - INFO - Additional time offset applied in geo2rdr: 0.0 secs
+2018-10-10 20:27:36,844 - isce.topsinsar.coarseoffsets - INFO - Additional range offset applied in geo2rdr: 0.0 m
+2018-10-10 20:27:37,745 - isce.topsinsar.coarseoffsets - INFO - Overlap pair 3, IW-1: Burst 3 of master matched with Burst 9 of slave
+2018-10-10 20:27:37,768 - isce.topsinsar.coarseoffsets - INFO - Additional time offset applied in geo2rdr: 0.0 secs
+2018-10-10 20:27:37,769 - isce.topsinsar.coarseoffsets - INFO - Additional range offset applied in geo2rdr: 0.0 m
+2018-10-10 20:27:38,660 - isce.topsinsar.coarseoffsets - INFO - Overlap pair 3 - IW-1: Burst 4 of master matched with Burst 10 of slave
+2018-10-10 20:27:38,683 - isce.topsinsar.coarseoffsets - INFO - Additional time offset applied in geo2rdr: 0.0 secs
+2018-10-10 20:27:38,683 - isce.topsinsar.coarseoffsets - INFO - Additional range offset applied in geo2rdr: 0.0 m
+2018-10-10 20:27:39,566 - isce.topsinsar.coarseoffsets - INFO - Overlap pair 4, IW-1: Burst 4 of master matched with Burst 10 of slave
+2018-10-10 20:27:39,589 - isce.topsinsar.coarseoffsets - INFO - Additional time offset applied in geo2rdr: 0.0 secs
+2018-10-10 20:27:39,589 - isce.topsinsar.coarseoffsets - INFO - Additional range offset applied in geo2rdr: 0.0 m
+2018-10-10 20:27:40,473 - isce.topsinsar.coarseoffsets - INFO - Overlap pair 4 - IW-1: Burst 5 of master matched with Burst 11 of slave
+2018-10-10 20:27:40,496 - isce.topsinsar.coarseoffsets - INFO - Additional time offset applied in geo2rdr: 0.0 secs
+2018-10-10 20:27:40,496 - isce.topsinsar.coarseoffsets - INFO - Additional range offset applied in geo2rdr: 0.0 m
+2018-10-10 20:27:41,391 - isce.topsinsar.coarseoffsets - INFO - Overlap pair 5, IW-1: Burst 5 of master matched with Burst 11 of slave
+2018-10-10 20:27:41,414 - isce.topsinsar.coarseoffsets - INFO - Additional time offset applied in geo2rdr: 0.0 secs
+2018-10-10 20:27:41,414 - isce.topsinsar.coarseoffsets - INFO - Additional range offset applied in geo2rdr: 0.0 m
+2018-10-10 20:27:42,320 - isce.topsinsar.coarseoffsets - INFO - Overlap pair 5 - IW-1: Burst 6 of master matched with Burst 12 of slave
+2018-10-10 20:27:42,343 - isce.topsinsar.coarseoffsets - INFO - Additional time offset applied in geo2rdr: 0.0 secs
+2018-10-10 20:27:42,343 - isce.topsinsar.coarseoffsets - INFO - Additional range offset applied in geo2rdr: 0.0 m
+2018-10-10 20:27:43,245 - isce.topsinsar.coarseoffsets - INFO - Overlap pair 6, IW-1: Burst 6 of master matched with Burst 12 of slave
+2018-10-10 20:27:43,268 - isce.topsinsar.coarseoffsets - INFO - Additional time offset applied in geo2rdr: 0.0 secs
+2018-10-10 20:27:43,268 - isce.topsinsar.coarseoffsets - INFO - Additional range offset applied in geo2rdr: 0.0 m
+2018-10-10 20:27:44,171 - isce.topsinsar.coarseoffsets - INFO - Overlap pair 6 - IW-1: Burst 7 of master matched with Burst 13 of slave
+2018-10-10 20:27:44,194 - isce.topsinsar.coarseoffsets - INFO - Additional time offset applied in geo2rdr: 0.0 secs
+2018-10-10 20:27:44,194 - isce.topsinsar.coarseoffsets - INFO - Additional range offset applied in geo2rdr: 0.0 m
+2018-10-10 20:27:45,994 - isce.topsinsar.coarseoffsets - INFO - Overlap pair 0, IW-2: Burst 0 of master matched with Burst 5 of slave
+2018-10-10 20:27:46,015 - isce.topsinsar.coarseoffsets - INFO - Additional time offset applied in geo2rdr: 0.0 secs
+2018-10-10 20:27:46,015 - isce.topsinsar.coarseoffsets - INFO - Additional range offset applied in geo2rdr: 0.0 m
+2018-10-10 20:27:47,056 - isce.topsinsar.coarseoffsets - INFO - Overlap pair 0 - IW-2: Burst 1 of master matched with Burst 6 of slave
+2018-10-10 20:27:47,079 - isce.topsinsar.coarseoffsets - INFO - Additional time offset applied in geo2rdr: 0.0 secs
+2018-10-10 20:27:47,079 - isce.topsinsar.coarseoffsets - INFO - Additional range offset applied in geo2rdr: 0.0 m
+2018-10-10 20:27:48,114 - isce.topsinsar.coarseoffsets - INFO - Overlap pair 1, IW-2: Burst 1 of master matched with Burst 6 of slave
+2018-10-10 20:27:48,137 - isce.topsinsar.coarseoffsets - INFO - Additional time offset applied in geo2rdr: 0.0 secs
+2018-10-10 20:27:48,137 - isce.topsinsar.coarseoffsets - INFO - Additional range offset applied in geo2rdr: 0.0 m
+2018-10-10 20:27:49,186 - isce.topsinsar.coarseoffsets - INFO - Overlap pair 1 - IW-2: Burst 2 of master matched with Burst 7 of slave
+2018-10-10 20:27:49,208 - isce.topsinsar.coarseoffsets - INFO - Additional time offset applied in geo2rdr: 0.0 secs
+2018-10-10 20:27:49,209 - isce.topsinsar.coarseoffsets - INFO - Additional range offset applied in geo2rdr: 0.0 m
+2018-10-10 20:27:50,248 - isce.topsinsar.coarseoffsets - INFO - Overlap pair 2, IW-2: Burst 2 of master matched with Burst 7 of slave
+2018-10-10 20:27:50,271 - isce.topsinsar.coarseoffsets - INFO - Additional time offset applied in geo2rdr: 0.0 secs
+2018-10-10 20:27:50,271 - isce.topsinsar.coarseoffsets - INFO - Additional range offset applied in geo2rdr: 0.0 m
+2018-10-10 20:27:51,332 - isce.topsinsar.coarseoffsets - INFO - Overlap pair 2 - IW-2: Burst 3 of master matched with Burst 8 of slave
+2018-10-10 20:27:51,354 - isce.topsinsar.coarseoffsets - INFO - Additional time offset applied in geo2rdr: 0.0 secs
+2018-10-10 20:27:51,354 - isce.topsinsar.coarseoffsets - INFO - Additional range offset applied in geo2rdr: 0.0 m
+2018-10-10 20:27:52,410 - isce.topsinsar.coarseoffsets - INFO - Overlap pair 3, IW-2: Burst 3 of master matched with Burst 8 of slave
+2018-10-10 20:27:52,433 - isce.topsinsar.coarseoffsets - INFO - Additional time offset applied in geo2rdr: 0.0 secs
+2018-10-10 20:27:52,433 - isce.topsinsar.coarseoffsets - INFO - Additional range offset applied in geo2rdr: 0.0 m
+2018-10-10 20:27:53,486 - isce.topsinsar.coarseoffsets - INFO - Overlap pair 3 - IW-2: Burst 4 of master matched with Burst 9 of slave
+2018-10-10 20:27:53,509 - isce.topsinsar.coarseoffsets - INFO - Additional time offset applied in geo2rdr: 0.0 secs
+2018-10-10 20:27:53,509 - isce.topsinsar.coarseoffsets - INFO - Additional range offset applied in geo2rdr: 0.0 m
+2018-10-10 20:27:54,551 - isce.topsinsar.coarseoffsets - INFO - Overlap pair 4, IW-2: Burst 4 of master matched with Burst 9 of slave
+2018-10-10 20:27:54,574 - isce.topsinsar.coarseoffsets - INFO - Additional time offset applied in geo2rdr: 0.0 secs
+2018-10-10 20:27:54,574 - isce.topsinsar.coarseoffsets - INFO - Additional range offset applied in geo2rdr: 0.0 m
+2018-10-10 20:27:55,609 - isce.topsinsar.coarseoffsets - INFO - Overlap pair 4 - IW-2: Burst 5 of master matched with Burst 10 of slave
+2018-10-10 20:27:55,632 - isce.topsinsar.coarseoffsets - INFO - Additional time offset applied in geo2rdr: 0.0 secs
+2018-10-10 20:27:55,632 - isce.topsinsar.coarseoffsets - INFO - Additional range offset applied in geo2rdr: 0.0 m
+2018-10-10 20:27:56,665 - isce.topsinsar.coarseoffsets - INFO - Overlap pair 5, IW-2: Burst 5 of master matched with Burst 10 of slave
+2018-10-10 20:27:56,688 - isce.topsinsar.coarseoffsets - INFO - Additional time offset applied in geo2rdr: 0.0 secs
+2018-10-10 20:27:56,688 - isce.topsinsar.coarseoffsets - INFO - Additional range offset applied in geo2rdr: 0.0 m
+2018-10-10 20:27:57,748 - isce.topsinsar.coarseoffsets - INFO - Overlap pair 5 - IW-2: Burst 6 of master matched with Burst 11 of slave
+2018-10-10 20:27:57,771 - isce.topsinsar.coarseoffsets - INFO - Additional time offset applied in geo2rdr: 0.0 secs
+2018-10-10 20:27:57,771 - isce.topsinsar.coarseoffsets - INFO - Additional range offset applied in geo2rdr: 0.0 m
+2018-10-10 20:27:58,829 - isce.topsinsar.coarseoffsets - INFO - Overlap pair 6, IW-2: Burst 6 of master matched with Burst 11 of slave
+2018-10-10 20:27:58,851 - isce.topsinsar.coarseoffsets - INFO - Additional time offset applied in geo2rdr: 0.0 secs
+2018-10-10 20:27:58,852 - isce.topsinsar.coarseoffsets - INFO - Additional range offset applied in geo2rdr: 0.0 m
+2018-10-10 20:27:59,932 - isce.topsinsar.coarseoffsets - INFO - Overlap pair 6 - IW-2: Burst 7 of master matched with Burst 12 of slave
+2018-10-10 20:27:59,955 - isce.topsinsar.coarseoffsets - INFO - Additional time offset applied in geo2rdr: 0.0 secs
+2018-10-10 20:27:59,955 - isce.topsinsar.coarseoffsets - INFO - Additional range offset applied in geo2rdr: 0.0 m
+2018-10-10 20:28:01,014 - isce.topsinsar.coarseoffsets - INFO - Overlap pair 7, IW-2: Burst 7 of master matched with Burst 12 of slave
+2018-10-10 20:28:01,037 - isce.topsinsar.coarseoffsets - INFO - Additional time offset applied in geo2rdr: 0.0 secs
+2018-10-10 20:28:01,037 - isce.topsinsar.coarseoffsets - INFO - Additional range offset applied in geo2rdr: 0.0 m
+2018-10-10 20:28:02,080 - isce.topsinsar.coarseoffsets - INFO - Overlap pair 7 - IW-2: Burst 8 of master matched with Burst 13 of slave
+2018-10-10 20:28:02,102 - isce.topsinsar.coarseoffsets - INFO - Additional time offset applied in geo2rdr: 0.0 secs
+2018-10-10 20:28:02,103 - isce.topsinsar.coarseoffsets - INFO - Additional range offset applied in geo2rdr: 0.0 m
+2018-10-10 20:28:04,057 - isce.topsinsar.coarseoffsets - INFO - Overlap pair 0, IW-3: Burst 0 of master matched with Burst 5 of slave
+2018-10-10 20:28:04,078 - isce.topsinsar.coarseoffsets - INFO - Additional time offset applied in geo2rdr: 0.0 secs
+2018-10-10 20:28:04,078 - isce.topsinsar.coarseoffsets - INFO - Additional range offset applied in geo2rdr: 0.0 m
+2018-10-10 20:28:05,085 - isce.topsinsar.coarseoffsets - INFO - Overlap pair 0 - IW-3: Burst 1 of master matched with Burst 6 of slave
+2018-10-10 20:28:05,108 - isce.topsinsar.coarseoffsets - INFO - Additional time offset applied in geo2rdr: 0.0 secs
+2018-10-10 20:28:05,108 - isce.topsinsar.coarseoffsets - INFO - Additional range offset applied in geo2rdr: 0.0 m
+2018-10-10 20:28:06,117 - isce.topsinsar.coarseoffsets - INFO - Overlap pair 1, IW-3: Burst 1 of master matched with Burst 6 of slave
+2018-10-10 20:28:06,140 - isce.topsinsar.coarseoffsets - INFO - Additional time offset applied in geo2rdr: 0.0 secs
+2018-10-10 20:28:06,140 - isce.topsinsar.coarseoffsets - INFO - Additional range offset applied in geo2rdr: 0.0 m
+2018-10-10 20:28:07,150 - isce.topsinsar.coarseoffsets - INFO - Overlap pair 1 - IW-3: Burst 2 of master matched with Burst 7 of slave
+2018-10-10 20:28:07,172 - isce.topsinsar.coarseoffsets - INFO - Additional time offset applied in geo2rdr: 0.0 secs
+2018-10-10 20:28:07,172 - isce.topsinsar.coarseoffsets - INFO - Additional range offset applied in geo2rdr: 0.0 m
+2018-10-10 20:28:08,175 - isce.topsinsar.coarseoffsets - INFO - Overlap pair 2, IW-3: Burst 2 of master matched with Burst 7 of slave
+2018-10-10 20:28:08,198 - isce.topsinsar.coarseoffsets - INFO - Additional time offset applied in geo2rdr: 0.0 secs
+2018-10-10 20:28:08,198 - isce.topsinsar.coarseoffsets - INFO - Additional range offset applied in geo2rdr: 0.0 m
+2018-10-10 20:28:09,219 - isce.topsinsar.coarseoffsets - INFO - Overlap pair 2 - IW-3: Burst 3 of master matched with Burst 8 of slave
+2018-10-10 20:28:09,242 - isce.topsinsar.coarseoffsets - INFO - Additional time offset applied in geo2rdr: 0.0 secs
+2018-10-10 20:28:09,242 - isce.topsinsar.coarseoffsets - INFO - Additional range offset applied in geo2rdr: 0.0 m
+2018-10-10 20:28:10,264 - isce.topsinsar.coarseoffsets - INFO - Overlap pair 3, IW-3: Burst 3 of master matched with Burst 8 of slave
+2018-10-10 20:28:10,287 - isce.topsinsar.coarseoffsets - INFO - Additional time offset applied in geo2rdr: 0.0 secs
+2018-10-10 20:28:10,287 - isce.topsinsar.coarseoffsets - INFO - Additional range offset applied in geo2rdr: 0.0 m
+2018-10-10 20:28:11,272 - isce.topsinsar.coarseoffsets - INFO - Overlap pair 3 - IW-3: Burst 4 of master matched with Burst 9 of slave
+2018-10-10 20:28:11,297 - isce.topsinsar.coarseoffsets - INFO - Additional time offset applied in geo2rdr: 0.0 secs
+2018-10-10 20:28:11,297 - isce.topsinsar.coarseoffsets - INFO - Additional range offset applied in geo2rdr: 0.0 m
+2018-10-10 20:28:12,293 - isce.topsinsar.coarseoffsets - INFO - Overlap pair 4, IW-3: Burst 4 of master matched with Burst 9 of slave
+2018-10-10 20:28:12,315 - isce.topsinsar.coarseoffsets - INFO - Additional time offset applied in geo2rdr: 0.0 secs
+2018-10-10 20:28:12,315 - isce.topsinsar.coarseoffsets - INFO - Additional range offset applied in geo2rdr: 0.0 m
+2018-10-10 20:28:13,338 - isce.topsinsar.coarseoffsets - INFO - Overlap pair 4 - IW-3: Burst 5 of master matched with Burst 10 of slave
+2018-10-10 20:28:13,360 - isce.topsinsar.coarseoffsets - INFO - Additional time offset applied in geo2rdr: 0.0 secs
+2018-10-10 20:28:13,361 - isce.topsinsar.coarseoffsets - INFO - Additional range offset applied in geo2rdr: 0.0 m
+2018-10-10 20:28:14,365 - isce.topsinsar.coarseoffsets - INFO - Overlap pair 5, IW-3: Burst 5 of master matched with Burst 10 of slave
+2018-10-10 20:28:14,388 - isce.topsinsar.coarseoffsets - INFO - Additional time offset applied in geo2rdr: 0.0 secs
+2018-10-10 20:28:14,388 - isce.topsinsar.coarseoffsets - INFO - Additional range offset applied in geo2rdr: 0.0 m
+2018-10-10 20:28:15,436 - isce.topsinsar.coarseoffsets - INFO - Overlap pair 5 - IW-3: Burst 6 of master matched with Burst 11 of slave
+2018-10-10 20:28:15,459 - isce.topsinsar.coarseoffsets - INFO - Additional time offset applied in geo2rdr: 0.0 secs
+2018-10-10 20:28:15,459 - isce.topsinsar.coarseoffsets - INFO - Additional range offset applied in geo2rdr: 0.0 m
+2018-10-10 20:28:16,501 - isce.topsinsar.coarseoffsets - INFO - Overlap pair 6, IW-3: Burst 6 of master matched with Burst 11 of slave
+2018-10-10 20:28:16,524 - isce.topsinsar.coarseoffsets - INFO - Additional time offset applied in geo2rdr: 0.0 secs
+2018-10-10 20:28:16,524 - isce.topsinsar.coarseoffsets - INFO - Additional range offset applied in geo2rdr: 0.0 m
+2018-10-10 20:28:17,556 - isce.topsinsar.coarseoffsets - INFO - Overlap pair 6 - IW-3: Burst 7 of master matched with Burst 12 of slave
+2018-10-10 20:28:17,579 - isce.topsinsar.coarseoffsets - INFO - Additional time offset applied in geo2rdr: 0.0 secs
+2018-10-10 20:28:17,579 - isce.topsinsar.coarseoffsets - INFO - Additional range offset applied in geo2rdr: 0.0 m
+2018-10-10 20:28:18,607 - isce.topsinsar.coarseoffsets - INFO - Overlap pair 7, IW-3: Burst 7 of master matched with Burst 12 of slave
+2018-10-10 20:28:18,629 - isce.topsinsar.coarseoffsets - INFO - Additional time offset applied in geo2rdr: 0.0 secs
+2018-10-10 20:28:18,629 - isce.topsinsar.coarseoffsets - INFO - Additional range offset applied in geo2rdr: 0.0 m
+2018-10-10 20:28:19,664 - isce.topsinsar.coarseoffsets - INFO - Overlap pair 7 - IW-3: Burst 8 of master matched with Burst 13 of slave
+2018-10-10 20:28:19,686 - isce.topsinsar.coarseoffsets - INFO - Additional time offset applied in geo2rdr: 0.0 secs
+2018-10-10 20:28:19,687 - isce.topsinsar.coarseoffsets - INFO - Additional range offset applied in geo2rdr: 0.0 m
+2018-10-10 20:28:22,765 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1488 which is the number of lines in the slc image.
+2018-10-10 20:28:22,765 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 20590 which is the width of the slc image.
+2018-10-10 20:28:22,765 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:28:24,921 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1488 which is the number of lines in the slc image.
+2018-10-10 20:28:24,922 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 20590 which is the width of the slc image.
+2018-10-10 20:28:24,922 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:28:26,688 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1488 which is the number of lines in the slc image.
+2018-10-10 20:28:26,688 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 20590 which is the width of the slc image.
+2018-10-10 20:28:26,688 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:28:28,345 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1488 which is the number of lines in the slc image.
+2018-10-10 20:28:28,345 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 20590 which is the width of the slc image.
+2018-10-10 20:28:28,345 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:28:29,990 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1488 which is the number of lines in the slc image.
+2018-10-10 20:28:29,991 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 20590 which is the width of the slc image.
+2018-10-10 20:28:29,991 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:28:31,633 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1488 which is the number of lines in the slc image.
+2018-10-10 20:28:31,633 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 20590 which is the width of the slc image.
+2018-10-10 20:28:31,633 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:28:33,324 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1488 which is the number of lines in the slc image.
+2018-10-10 20:28:33,324 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 20590 which is the width of the slc image.
+2018-10-10 20:28:33,324 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:28:34,980 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1488 which is the number of lines in the slc image.
+2018-10-10 20:28:34,980 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 20590 which is the width of the slc image.
+2018-10-10 20:28:34,980 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:28:36,610 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1488 which is the number of lines in the slc image.
+2018-10-10 20:28:36,610 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 20590 which is the width of the slc image.
+2018-10-10 20:28:36,610 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:28:38,266 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1488 which is the number of lines in the slc image.
+2018-10-10 20:28:38,266 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 20590 which is the width of the slc image.
+2018-10-10 20:28:38,266 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:28:39,936 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1488 which is the number of lines in the slc image.
+2018-10-10 20:28:39,936 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 20590 which is the width of the slc image.
+2018-10-10 20:28:39,936 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:28:41,580 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1488 which is the number of lines in the slc image.
+2018-10-10 20:28:41,580 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 20590 which is the width of the slc image.
+2018-10-10 20:28:41,580 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:28:43,237 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1488 which is the number of lines in the slc image.
+2018-10-10 20:28:43,237 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 20590 which is the width of the slc image.
+2018-10-10 20:28:43,237 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:28:44,887 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1488 which is the number of lines in the slc image.
+2018-10-10 20:28:44,887 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 20590 which is the width of the slc image.
+2018-10-10 20:28:44,887 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:28:48,794 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1500 which is the number of lines in the slc image.
+2018-10-10 20:28:48,794 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 24586 which is the width of the slc image.
+2018-10-10 20:28:48,794 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:28:50,772 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1500 which is the number of lines in the slc image.
+2018-10-10 20:28:50,772 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 24586 which is the width of the slc image.
+2018-10-10 20:28:50,772 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:28:52,742 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1500 which is the number of lines in the slc image.
+2018-10-10 20:28:52,743 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 24586 which is the width of the slc image.
+2018-10-10 20:28:52,743 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:28:54,704 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1500 which is the number of lines in the slc image.
+2018-10-10 20:28:54,704 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 24586 which is the width of the slc image.
+2018-10-10 20:28:54,704 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:28:56,669 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1500 which is the number of lines in the slc image.
+2018-10-10 20:28:56,669 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 24586 which is the width of the slc image.
+2018-10-10 20:28:56,669 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:28:58,647 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1500 which is the number of lines in the slc image.
+2018-10-10 20:28:58,647 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 24586 which is the width of the slc image.
+2018-10-10 20:28:58,647 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:29:00,612 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1500 which is the number of lines in the slc image.
+2018-10-10 20:29:00,612 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 24586 which is the width of the slc image.
+2018-10-10 20:29:00,612 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:29:02,578 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1500 which is the number of lines in the slc image.
+2018-10-10 20:29:02,578 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 24586 which is the width of the slc image.
+2018-10-10 20:29:02,578 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:29:04,549 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1500 which is the number of lines in the slc image.
+2018-10-10 20:29:04,549 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 24586 which is the width of the slc image.
+2018-10-10 20:29:04,549 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:29:06,505 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1500 which is the number of lines in the slc image.
+2018-10-10 20:29:06,505 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 24586 which is the width of the slc image.
+2018-10-10 20:29:06,505 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:29:08,471 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1500 which is the number of lines in the slc image.
+2018-10-10 20:29:08,471 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 24586 which is the width of the slc image.
+2018-10-10 20:29:08,471 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:29:10,426 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1500 which is the number of lines in the slc image.
+2018-10-10 20:29:10,426 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 24586 which is the width of the slc image.
+2018-10-10 20:29:10,426 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:29:12,407 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1500 which is the number of lines in the slc image.
+2018-10-10 20:29:12,407 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 24586 which is the width of the slc image.
+2018-10-10 20:29:12,407 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:29:14,363 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1500 which is the number of lines in the slc image.
+2018-10-10 20:29:14,364 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 24586 which is the width of the slc image.
+2018-10-10 20:29:14,364 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:29:16,323 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1500 which is the number of lines in the slc image.
+2018-10-10 20:29:16,324 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 24586 which is the width of the slc image.
+2018-10-10 20:29:16,324 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:29:18,269 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1500 which is the number of lines in the slc image.
+2018-10-10 20:29:18,269 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 24586 which is the width of the slc image.
+2018-10-10 20:29:18,269 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:29:22,482 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1505 which is the number of lines in the slc image.
+2018-10-10 20:29:22,482 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 23820 which is the width of the slc image.
+2018-10-10 20:29:22,483 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:29:24,406 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1505 which is the number of lines in the slc image.
+2018-10-10 20:29:24,406 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 23820 which is the width of the slc image.
+2018-10-10 20:29:24,406 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:29:26,316 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1505 which is the number of lines in the slc image.
+2018-10-10 20:29:26,316 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 23820 which is the width of the slc image.
+2018-10-10 20:29:26,316 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:29:28,223 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1505 which is the number of lines in the slc image.
+2018-10-10 20:29:28,223 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 23820 which is the width of the slc image.
+2018-10-10 20:29:28,223 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:29:30,139 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1505 which is the number of lines in the slc image.
+2018-10-10 20:29:30,139 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 23820 which is the width of the slc image.
+2018-10-10 20:29:30,139 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:29:32,046 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1505 which is the number of lines in the slc image.
+2018-10-10 20:29:32,047 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 23820 which is the width of the slc image.
+2018-10-10 20:29:32,047 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:29:33,967 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1505 which is the number of lines in the slc image.
+2018-10-10 20:29:33,967 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 23820 which is the width of the slc image.
+2018-10-10 20:29:33,967 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:29:35,851 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1505 which is the number of lines in the slc image.
+2018-10-10 20:29:35,851 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 23820 which is the width of the slc image.
+2018-10-10 20:29:35,851 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:29:37,739 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1505 which is the number of lines in the slc image.
+2018-10-10 20:29:37,739 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 23820 which is the width of the slc image.
+2018-10-10 20:29:37,739 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:29:39,639 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1505 which is the number of lines in the slc image.
+2018-10-10 20:29:39,639 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 23820 which is the width of the slc image.
+2018-10-10 20:29:39,640 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:29:41,542 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1505 which is the number of lines in the slc image.
+2018-10-10 20:29:41,542 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 23820 which is the width of the slc image.
+2018-10-10 20:29:41,542 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:29:43,441 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1505 which is the number of lines in the slc image.
+2018-10-10 20:29:43,441 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 23820 which is the width of the slc image.
+2018-10-10 20:29:43,441 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:29:45,361 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1505 which is the number of lines in the slc image.
+2018-10-10 20:29:45,361 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 23820 which is the width of the slc image.
+2018-10-10 20:29:45,361 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:29:47,266 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1505 which is the number of lines in the slc image.
+2018-10-10 20:29:47,266 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 23820 which is the width of the slc image.
+2018-10-10 20:29:47,266 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:29:49,179 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1505 which is the number of lines in the slc image.
+2018-10-10 20:29:49,179 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 23820 which is the width of the slc image.
+2018-10-10 20:29:49,179 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:29:51,082 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1505 which is the number of lines in the slc image.
+2018-10-10 20:29:51,082 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 23820 which is the width of the slc image.
+2018-10-10 20:29:51,082 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:30:10,531 - root - DEBUG - Creating readonly ISCE mmap with 
+file = ESD/overlap_IW1_01.5alks_15rlks.int 
+bands = 1 
+width = 1375 
+length = 20 
+scheme = BIP 
+dtype = CFLOAT 
+
+2018-10-10 20:30:11,160 - root - DEBUG - Creating readonly ISCE mmap with 
+file = ESD/overlap_IW1_02.5alks_15rlks.int 
+bands = 1 
+width = 1375 
+length = 22 
+scheme = BIP 
+dtype = CFLOAT 
+
+2018-10-10 20:30:11,753 - root - DEBUG - Creating readonly ISCE mmap with 
+file = ESD/overlap_IW1_03.5alks_15rlks.int 
+bands = 1 
+width = 1375 
+length = 22 
+scheme = BIP 
+dtype = CFLOAT 
+
+2018-10-10 20:30:12,334 - root - DEBUG - Creating readonly ISCE mmap with 
+file = ESD/overlap_IW1_04.5alks_15rlks.int 
+bands = 1 
+width = 1375 
+length = 22 
+scheme = BIP 
+dtype = CFLOAT 
+
+2018-10-10 20:30:12,916 - root - DEBUG - Creating readonly ISCE mmap with 
+file = ESD/overlap_IW1_05.5alks_15rlks.int 
+bands = 1 
+width = 1375 
+length = 22 
+scheme = BIP 
+dtype = CFLOAT 
+
+2018-10-10 20:30:13,491 - root - DEBUG - Creating readonly ISCE mmap with 
+file = ESD/overlap_IW1_06.5alks_15rlks.int 
+bands = 1 
+width = 1375 
+length = 22 
+scheme = BIP 
+dtype = CFLOAT 
+
+2018-10-10 20:30:14,086 - root - DEBUG - Creating readonly ISCE mmap with 
+file = ESD/overlap_IW1_07.5alks_15rlks.int 
+bands = 1 
+width = 1375 
+length = 22 
+scheme = BIP 
+dtype = CFLOAT 
+
+2018-10-10 20:30:16,813 - root - DEBUG - Creating readonly ISCE mmap with 
+file = ESD/overlap_IW2_01.5alks_15rlks.int 
+bands = 1 
+width = 1638 
+length = 21 
+scheme = BIP 
+dtype = CFLOAT 
+
+2018-10-10 20:30:17,506 - root - DEBUG - Creating readonly ISCE mmap with 
+file = ESD/overlap_IW2_02.5alks_15rlks.int 
+bands = 1 
+width = 1638 
+length = 21 
+scheme = BIP 
+dtype = CFLOAT 
+
+2018-10-10 20:30:18,181 - root - DEBUG - Creating readonly ISCE mmap with 
+file = ESD/overlap_IW2_03.5alks_15rlks.int 
+bands = 1 
+width = 1638 
+length = 22 
+scheme = BIP 
+dtype = CFLOAT 
+
+2018-10-10 20:30:18,877 - root - DEBUG - Creating readonly ISCE mmap with 
+file = ESD/overlap_IW2_04.5alks_15rlks.int 
+bands = 1 
+width = 1638 
+length = 22 
+scheme = BIP 
+dtype = CFLOAT 
+
+2018-10-10 20:30:19,560 - root - DEBUG - Creating readonly ISCE mmap with 
+file = ESD/overlap_IW2_05.5alks_15rlks.int 
+bands = 1 
+width = 1638 
+length = 21 
+scheme = BIP 
+dtype = CFLOAT 
+
+2018-10-10 20:30:20,231 - root - DEBUG - Creating readonly ISCE mmap with 
+file = ESD/overlap_IW2_06.5alks_15rlks.int 
+bands = 1 
+width = 1638 
+length = 22 
+scheme = BIP 
+dtype = CFLOAT 
+
+2018-10-10 20:30:20,917 - root - DEBUG - Creating readonly ISCE mmap with 
+file = ESD/overlap_IW2_07.5alks_15rlks.int 
+bands = 1 
+width = 1638 
+length = 22 
+scheme = BIP 
+dtype = CFLOAT 
+
+2018-10-10 20:30:21,602 - root - DEBUG - Creating readonly ISCE mmap with 
+file = ESD/overlap_IW2_08.5alks_15rlks.int 
+bands = 1 
+width = 1638 
+length = 21 
+scheme = BIP 
+dtype = CFLOAT 
+
+2018-10-10 20:30:24,439 - root - DEBUG - Creating readonly ISCE mmap with 
+file = ESD/overlap_IW3_01.5alks_15rlks.int 
+bands = 1 
+width = 1584 
+length = 21 
+scheme = BIP 
+dtype = CFLOAT 
+
+2018-10-10 20:30:25,084 - root - DEBUG - Creating readonly ISCE mmap with 
+file = ESD/overlap_IW3_02.5alks_15rlks.int 
+bands = 1 
+width = 1584 
+length = 22 
+scheme = BIP 
+dtype = CFLOAT 
+
+2018-10-10 20:30:25,749 - root - DEBUG - Creating readonly ISCE mmap with 
+file = ESD/overlap_IW3_03.5alks_15rlks.int 
+bands = 1 
+width = 1584 
+length = 22 
+scheme = BIP 
+dtype = CFLOAT 
+
+2018-10-10 20:30:26,405 - root - DEBUG - Creating readonly ISCE mmap with 
+file = ESD/overlap_IW3_04.5alks_15rlks.int 
+bands = 1 
+width = 1584 
+length = 21 
+scheme = BIP 
+dtype = CFLOAT 
+
+2018-10-10 20:30:27,051 - root - DEBUG - Creating readonly ISCE mmap with 
+file = ESD/overlap_IW3_05.5alks_15rlks.int 
+bands = 1 
+width = 1584 
+length = 22 
+scheme = BIP 
+dtype = CFLOAT 
+
+2018-10-10 20:30:27,704 - root - DEBUG - Creating readonly ISCE mmap with 
+file = ESD/overlap_IW3_06.5alks_15rlks.int 
+bands = 1 
+width = 1584 
+length = 22 
+scheme = BIP 
+dtype = CFLOAT 
+
+2018-10-10 20:30:28,408 - root - DEBUG - Creating readonly ISCE mmap with 
+file = ESD/overlap_IW3_07.5alks_15rlks.int 
+bands = 1 
+width = 1584 
+length = 22 
+scheme = BIP 
+dtype = CFLOAT 
+
+2018-10-10 20:30:29,068 - root - DEBUG - Creating readonly ISCE mmap with 
+file = ESD/overlap_IW3_08.5alks_15rlks.int 
+bands = 1 
+width = 1584 
+length = 22 
+scheme = BIP 
+dtype = CFLOAT 
+
+2018-10-10 20:30:30,310 - isce.insar - INFO - ISCE VERSION = 2.1.0, RELEASE_SVN_REVISION = 2366,RELEASE_DATE = 20170806, CURRENT_SVN_REVISION = 2477M
+2018-10-10 20:30:30,498 - isce.insar - WARNING - Some filenames in insarApp.geocode_list configuration are different from those in InsarProc. Using names given to insarApp.
+2018-10-10 20:30:32,488 - isce.insar - INFO - ISCE VERSION = 2.1.0, RELEASE_SVN_REVISION = 2366,RELEASE_DATE = 20170806, CURRENT_SVN_REVISION = 2477M
+2018-10-10 20:30:32,571 - isce.insar - WARNING - Some filenames in insarApp.geocode_list configuration are different from those in InsarProc. Using names given to insarApp.
+2018-10-10 20:30:34,557 - isce.insar - INFO - ISCE VERSION = 2.1.0, RELEASE_SVN_REVISION = 2366,RELEASE_DATE = 20170806, CURRENT_SVN_REVISION = 2477M
+2018-10-10 20:30:34,639 - isce.insar - WARNING - Some filenames in insarApp.geocode_list configuration are different from those in InsarProc. Using names given to insarApp.
+2018-10-10 20:30:36,622 - isce.insar - INFO - ISCE VERSION = 2.1.0, RELEASE_SVN_REVISION = 2366,RELEASE_DATE = 20170806, CURRENT_SVN_REVISION = 2477M
+2018-10-10 20:30:36,703 - isce.insar - WARNING - Some filenames in insarApp.geocode_list configuration are different from those in InsarProc. Using names given to insarApp.
+2018-10-10 20:30:38,689 - isce.insar - INFO - ISCE VERSION = 2.1.0, RELEASE_SVN_REVISION = 2366,RELEASE_DATE = 20170806, CURRENT_SVN_REVISION = 2477M
+2018-10-10 20:30:38,772 - isce.insar - WARNING - Some filenames in insarApp.geocode_list configuration are different from those in InsarProc. Using names given to insarApp.
+2018-10-10 20:30:40,770 - isce.insar - INFO - ISCE VERSION = 2.1.0, RELEASE_SVN_REVISION = 2366,RELEASE_DATE = 20170806, CURRENT_SVN_REVISION = 2477M
+2018-10-10 20:30:40,853 - isce.insar - WARNING - Some filenames in insarApp.geocode_list configuration are different from those in InsarProc. Using names given to insarApp.
+2018-10-10 20:30:43,663 - isce.topsinsar.esd - INFO - 
+####################################################################################################
+    runESD
+----------------------------------------------------------------------------------------------------
+esd.Mean = -0.0059802622405792745
+esd.Median = -0.014000594150274992
+esd.Std = 0.012661924411202778
+esd.coherence threshold = 0.6
+esd.number of coherent points = 12
+####################################################################################################
+2018-10-10 20:30:44,197 - isce.insar - INFO - ISCE VERSION = 2.1.0, RELEASE_SVN_REVISION = 2366,RELEASE_DATE = 20170806, CURRENT_SVN_REVISION = 2477M
+2018-10-10 20:30:44,281 - isce.insar - WARNING - Some filenames in insarApp.geocode_list configuration are different from those in InsarProc. Using names given to insarApp.
+2018-10-10 20:34:16,229 - isce.topsinsar.rangecoreg - INFO - 
+####################################################################################################
+    runRangeCoreg
+----------------------------------------------------------------------------------------------------
+esd.Mean = -0.054962384259259256
+esd.Median = -0.046875
+esd.Std = 0.7447582284374024
+esd.number of coherent points = 1080
+esd.snr threshold = 8.0
+####################################################################################################
+2018-10-10 20:34:17,190 - isce.topsinsar.fineoffsets - INFO - IW1 - Burst 0 of master matched with Burst 6 of slave
+2018-10-10 20:34:17,213 - isce.topsinsar.fineoffsets - INFO - Additional time offset applied in geo2rdr: -2.877900950934088e-05 secs
+2018-10-10 20:34:17,213 - isce.topsinsar.fineoffsets - INFO - Additional range offset applied in geo2rdr: -0.12803828810479617 m
+2018-10-10 20:34:29,723 - isce.topsinsar.fineoffsets - INFO - IW1 - Burst 1 of master matched with Burst 7 of slave
+2018-10-10 20:34:29,747 - isce.topsinsar.fineoffsets - INFO - Additional time offset applied in geo2rdr: -2.877900950934088e-05 secs
+2018-10-10 20:34:29,747 - isce.topsinsar.fineoffsets - INFO - Additional range offset applied in geo2rdr: -0.12803828810479617 m
+2018-10-10 20:34:42,283 - isce.topsinsar.fineoffsets - INFO - IW1 - Burst 2 of master matched with Burst 8 of slave
+2018-10-10 20:34:42,306 - isce.topsinsar.fineoffsets - INFO - Additional time offset applied in geo2rdr: -2.877900950934088e-05 secs
+2018-10-10 20:34:42,306 - isce.topsinsar.fineoffsets - INFO - Additional range offset applied in geo2rdr: -0.12803828810479617 m
+2018-10-10 20:34:54,932 - isce.topsinsar.fineoffsets - INFO - IW1 - Burst 3 of master matched with Burst 9 of slave
+2018-10-10 20:34:54,955 - isce.topsinsar.fineoffsets - INFO - Additional time offset applied in geo2rdr: -2.877900950934088e-05 secs
+2018-10-10 20:34:54,955 - isce.topsinsar.fineoffsets - INFO - Additional range offset applied in geo2rdr: -0.12803828810479617 m
+2018-10-10 20:35:07,274 - isce.topsinsar.fineoffsets - INFO - IW1 - Burst 4 of master matched with Burst 10 of slave
+2018-10-10 20:35:07,297 - isce.topsinsar.fineoffsets - INFO - Additional time offset applied in geo2rdr: -2.877900950934088e-05 secs
+2018-10-10 20:35:07,297 - isce.topsinsar.fineoffsets - INFO - Additional range offset applied in geo2rdr: -0.12803828810479617 m
+2018-10-10 20:35:19,739 - isce.topsinsar.fineoffsets - INFO - IW1 - Burst 5 of master matched with Burst 11 of slave
+2018-10-10 20:35:19,761 - isce.topsinsar.fineoffsets - INFO - Additional time offset applied in geo2rdr: -2.877900950934088e-05 secs
+2018-10-10 20:35:19,762 - isce.topsinsar.fineoffsets - INFO - Additional range offset applied in geo2rdr: -0.12803828810479617 m
+2018-10-10 20:35:32,274 - isce.topsinsar.fineoffsets - INFO - IW1 - Burst 6 of master matched with Burst 12 of slave
+2018-10-10 20:35:32,297 - isce.topsinsar.fineoffsets - INFO - Additional time offset applied in geo2rdr: -2.877900950934088e-05 secs
+2018-10-10 20:35:32,297 - isce.topsinsar.fineoffsets - INFO - Additional range offset applied in geo2rdr: -0.12803828810479617 m
+2018-10-10 20:35:44,902 - isce.topsinsar.fineoffsets - INFO - IW1 - Burst 7 of master matched with Burst 13 of slave
+2018-10-10 20:35:44,925 - isce.topsinsar.fineoffsets - INFO - Additional time offset applied in geo2rdr: -2.877900950934088e-05 secs
+2018-10-10 20:35:44,925 - isce.topsinsar.fineoffsets - INFO - Additional range offset applied in geo2rdr: -0.12803828810479617 m
+2018-10-10 20:35:58,522 - isce.topsinsar.fineoffsets - INFO - IW2 - Burst 0 of master matched with Burst 5 of slave
+2018-10-10 20:35:58,544 - isce.topsinsar.fineoffsets - INFO - Additional time offset applied in geo2rdr: -2.877900950934088e-05 secs
+2018-10-10 20:35:58,544 - isce.topsinsar.fineoffsets - INFO - Additional range offset applied in geo2rdr: -0.12803828810479617 m
+2018-10-10 20:36:13,527 - isce.topsinsar.fineoffsets - INFO - IW2 - Burst 1 of master matched with Burst 6 of slave
+2018-10-10 20:36:13,550 - isce.topsinsar.fineoffsets - INFO - Additional time offset applied in geo2rdr: -2.877900950934088e-05 secs
+2018-10-10 20:36:13,550 - isce.topsinsar.fineoffsets - INFO - Additional range offset applied in geo2rdr: -0.12803828810479617 m
+2018-10-10 20:36:28,490 - isce.topsinsar.fineoffsets - INFO - IW2 - Burst 2 of master matched with Burst 7 of slave
+2018-10-10 20:36:28,512 - isce.topsinsar.fineoffsets - INFO - Additional time offset applied in geo2rdr: -2.877900950934088e-05 secs
+2018-10-10 20:36:28,513 - isce.topsinsar.fineoffsets - INFO - Additional range offset applied in geo2rdr: -0.12803828810479617 m
+2018-10-10 20:36:43,491 - isce.topsinsar.fineoffsets - INFO - IW2 - Burst 3 of master matched with Burst 8 of slave
+2018-10-10 20:36:43,514 - isce.topsinsar.fineoffsets - INFO - Additional time offset applied in geo2rdr: -2.877900950934088e-05 secs
+2018-10-10 20:36:43,514 - isce.topsinsar.fineoffsets - INFO - Additional range offset applied in geo2rdr: -0.12803828810479617 m
+2018-10-10 20:36:58,416 - isce.topsinsar.fineoffsets - INFO - IW2 - Burst 4 of master matched with Burst 9 of slave
+2018-10-10 20:36:58,439 - isce.topsinsar.fineoffsets - INFO - Additional time offset applied in geo2rdr: -2.877900950934088e-05 secs
+2018-10-10 20:36:58,439 - isce.topsinsar.fineoffsets - INFO - Additional range offset applied in geo2rdr: -0.12803828810479617 m
+2018-10-10 20:37:13,287 - isce.topsinsar.fineoffsets - INFO - IW2 - Burst 5 of master matched with Burst 10 of slave
+2018-10-10 20:37:13,309 - isce.topsinsar.fineoffsets - INFO - Additional time offset applied in geo2rdr: -2.877900950934088e-05 secs
+2018-10-10 20:37:13,309 - isce.topsinsar.fineoffsets - INFO - Additional range offset applied in geo2rdr: -0.12803828810479617 m
+2018-10-10 20:37:28,320 - isce.topsinsar.fineoffsets - INFO - IW2 - Burst 6 of master matched with Burst 11 of slave
+2018-10-10 20:37:28,343 - isce.topsinsar.fineoffsets - INFO - Additional time offset applied in geo2rdr: -2.877900950934088e-05 secs
+2018-10-10 20:37:28,343 - isce.topsinsar.fineoffsets - INFO - Additional range offset applied in geo2rdr: -0.12803828810479617 m
+2018-10-10 20:37:43,558 - isce.topsinsar.fineoffsets - INFO - IW2 - Burst 7 of master matched with Burst 12 of slave
+2018-10-10 20:37:43,581 - isce.topsinsar.fineoffsets - INFO - Additional time offset applied in geo2rdr: -2.877900950934088e-05 secs
+2018-10-10 20:37:43,581 - isce.topsinsar.fineoffsets - INFO - Additional range offset applied in geo2rdr: -0.12803828810479617 m
+2018-10-10 20:37:58,617 - isce.topsinsar.fineoffsets - INFO - IW2 - Burst 8 of master matched with Burst 13 of slave
+2018-10-10 20:37:58,640 - isce.topsinsar.fineoffsets - INFO - Additional time offset applied in geo2rdr: -2.877900950934088e-05 secs
+2018-10-10 20:37:58,640 - isce.topsinsar.fineoffsets - INFO - Additional range offset applied in geo2rdr: -0.12803828810479617 m
+2018-10-10 20:38:14,728 - isce.topsinsar.fineoffsets - INFO - IW3 - Burst 0 of master matched with Burst 5 of slave
+2018-10-10 20:38:14,750 - isce.topsinsar.fineoffsets - INFO - Additional time offset applied in geo2rdr: -2.877900950934088e-05 secs
+2018-10-10 20:38:14,750 - isce.topsinsar.fineoffsets - INFO - Additional range offset applied in geo2rdr: -0.12803828810479617 m
+2018-10-10 20:38:29,100 - isce.topsinsar.fineoffsets - INFO - IW3 - Burst 1 of master matched with Burst 6 of slave
+2018-10-10 20:38:29,122 - isce.topsinsar.fineoffsets - INFO - Additional time offset applied in geo2rdr: -2.877900950934088e-05 secs
+2018-10-10 20:38:29,122 - isce.topsinsar.fineoffsets - INFO - Additional range offset applied in geo2rdr: -0.12803828810479617 m
+2018-10-10 20:38:43,561 - isce.topsinsar.fineoffsets - INFO - IW3 - Burst 2 of master matched with Burst 7 of slave
+2018-10-10 20:38:43,583 - isce.topsinsar.fineoffsets - INFO - Additional time offset applied in geo2rdr: -2.877900950934088e-05 secs
+2018-10-10 20:38:43,584 - isce.topsinsar.fineoffsets - INFO - Additional range offset applied in geo2rdr: -0.12803828810479617 m
+2018-10-10 20:38:57,919 - isce.topsinsar.fineoffsets - INFO - IW3 - Burst 3 of master matched with Burst 8 of slave
+2018-10-10 20:38:57,942 - isce.topsinsar.fineoffsets - INFO - Additional time offset applied in geo2rdr: -2.877900950934088e-05 secs
+2018-10-10 20:38:57,942 - isce.topsinsar.fineoffsets - INFO - Additional range offset applied in geo2rdr: -0.12803828810479617 m
+2018-10-10 20:39:12,356 - isce.topsinsar.fineoffsets - INFO - IW3 - Burst 4 of master matched with Burst 9 of slave
+2018-10-10 20:39:12,378 - isce.topsinsar.fineoffsets - INFO - Additional time offset applied in geo2rdr: -2.877900950934088e-05 secs
+2018-10-10 20:39:12,379 - isce.topsinsar.fineoffsets - INFO - Additional range offset applied in geo2rdr: -0.12803828810479617 m
+2018-10-10 20:39:26,824 - isce.topsinsar.fineoffsets - INFO - IW3 - Burst 5 of master matched with Burst 10 of slave
+2018-10-10 20:39:26,847 - isce.topsinsar.fineoffsets - INFO - Additional time offset applied in geo2rdr: -2.877900950934088e-05 secs
+2018-10-10 20:39:26,847 - isce.topsinsar.fineoffsets - INFO - Additional range offset applied in geo2rdr: -0.12803828810479617 m
+2018-10-10 20:39:41,467 - isce.topsinsar.fineoffsets - INFO - IW3 - Burst 6 of master matched with Burst 11 of slave
+2018-10-10 20:39:41,490 - isce.topsinsar.fineoffsets - INFO - Additional time offset applied in geo2rdr: -2.877900950934088e-05 secs
+2018-10-10 20:39:41,490 - isce.topsinsar.fineoffsets - INFO - Additional range offset applied in geo2rdr: -0.12803828810479617 m
+2018-10-10 20:39:56,072 - isce.topsinsar.fineoffsets - INFO - IW3 - Burst 7 of master matched with Burst 12 of slave
+2018-10-10 20:39:56,095 - isce.topsinsar.fineoffsets - INFO - Additional time offset applied in geo2rdr: -2.877900950934088e-05 secs
+2018-10-10 20:39:56,095 - isce.topsinsar.fineoffsets - INFO - Additional range offset applied in geo2rdr: -0.12803828810479617 m
+2018-10-10 20:40:10,658 - isce.topsinsar.fineoffsets - INFO - IW3 - Burst 8 of master matched with Burst 13 of slave
+2018-10-10 20:40:10,680 - isce.topsinsar.fineoffsets - INFO - Additional time offset applied in geo2rdr: -2.877900950934088e-05 secs
+2018-10-10 20:40:10,680 - isce.topsinsar.fineoffsets - INFO - Additional range offset applied in geo2rdr: -0.12803828810479617 m
+2018-10-10 20:40:26,614 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1488 which is the number of lines in the slc image.
+2018-10-10 20:40:26,614 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 20590 which is the width of the slc image.
+2018-10-10 20:40:26,614 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:40:33,258 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1488 which is the number of lines in the slc image.
+2018-10-10 20:40:33,258 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 20590 which is the width of the slc image.
+2018-10-10 20:40:33,258 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:40:40,047 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1488 which is the number of lines in the slc image.
+2018-10-10 20:40:40,047 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 20590 which is the width of the slc image.
+2018-10-10 20:40:40,048 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:40:47,123 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1488 which is the number of lines in the slc image.
+2018-10-10 20:40:47,123 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 20590 which is the width of the slc image.
+2018-10-10 20:40:47,123 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:40:54,163 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1488 which is the number of lines in the slc image.
+2018-10-10 20:40:54,163 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 20590 which is the width of the slc image.
+2018-10-10 20:40:54,163 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:41:01,071 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1488 which is the number of lines in the slc image.
+2018-10-10 20:41:01,071 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 20590 which is the width of the slc image.
+2018-10-10 20:41:01,071 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:41:08,231 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1488 which is the number of lines in the slc image.
+2018-10-10 20:41:08,231 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 20590 which is the width of the slc image.
+2018-10-10 20:41:08,231 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:41:15,244 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1488 which is the number of lines in the slc image.
+2018-10-10 20:41:15,245 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 20590 which is the width of the slc image.
+2018-10-10 20:41:15,245 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:41:23,515 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1500 which is the number of lines in the slc image.
+2018-10-10 20:41:23,515 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 24586 which is the width of the slc image.
+2018-10-10 20:41:23,515 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:41:32,006 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1500 which is the number of lines in the slc image.
+2018-10-10 20:41:32,006 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 24586 which is the width of the slc image.
+2018-10-10 20:41:32,006 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:41:40,355 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1500 which is the number of lines in the slc image.
+2018-10-10 20:41:40,355 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 24586 which is the width of the slc image.
+2018-10-10 20:41:40,355 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:41:48,651 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1500 which is the number of lines in the slc image.
+2018-10-10 20:41:48,651 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 24586 which is the width of the slc image.
+2018-10-10 20:41:48,651 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:41:56,982 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1500 which is the number of lines in the slc image.
+2018-10-10 20:41:56,982 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 24586 which is the width of the slc image.
+2018-10-10 20:41:56,983 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:42:05,117 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1500 which is the number of lines in the slc image.
+2018-10-10 20:42:05,117 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 24586 which is the width of the slc image.
+2018-10-10 20:42:05,117 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:42:13,167 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1500 which is the number of lines in the slc image.
+2018-10-10 20:42:13,167 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 24586 which is the width of the slc image.
+2018-10-10 20:42:13,167 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:42:21,285 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1500 which is the number of lines in the slc image.
+2018-10-10 20:42:21,286 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 24586 which is the width of the slc image.
+2018-10-10 20:42:21,286 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:42:29,417 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1500 which is the number of lines in the slc image.
+2018-10-10 20:42:29,417 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 24586 which is the width of the slc image.
+2018-10-10 20:42:29,417 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:42:38,904 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1505 which is the number of lines in the slc image.
+2018-10-10 20:42:38,904 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 23820 which is the width of the slc image.
+2018-10-10 20:42:38,904 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:42:47,009 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1505 which is the number of lines in the slc image.
+2018-10-10 20:42:47,009 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 23820 which is the width of the slc image.
+2018-10-10 20:42:47,009 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:42:54,956 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1505 which is the number of lines in the slc image.
+2018-10-10 20:42:54,956 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 23820 which is the width of the slc image.
+2018-10-10 20:42:54,956 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:43:03,043 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1505 which is the number of lines in the slc image.
+2018-10-10 20:43:03,043 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 23820 which is the width of the slc image.
+2018-10-10 20:43:03,043 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:43:10,872 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1505 which is the number of lines in the slc image.
+2018-10-10 20:43:10,872 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 23820 which is the width of the slc image.
+2018-10-10 20:43:10,872 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:43:18,755 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1505 which is the number of lines in the slc image.
+2018-10-10 20:43:18,755 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 23820 which is the width of the slc image.
+2018-10-10 20:43:18,756 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:43:26,532 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1505 which is the number of lines in the slc image.
+2018-10-10 20:43:26,532 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 23820 which is the width of the slc image.
+2018-10-10 20:43:26,532 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:43:34,377 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1505 which is the number of lines in the slc image.
+2018-10-10 20:43:34,377 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 23820 which is the width of the slc image.
+2018-10-10 20:43:34,377 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:43:42,300 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_LINES has been set to the default value 1505 which is the number of lines in the slc image.
+2018-10-10 20:43:42,300 - isce.stdproc.resamp_slc - WARNING - The variable INPUT_WIDTH has been set to the default value 23820 which is the width of the slc image.
+2018-10-10 20:43:42,300 - isce.stdproc.resamp_slc - WARNING - No flattening requested
+2018-10-10 20:43:53,895 - isce.mroipac.correlation - INFO - Calculating Correlation
+2018-10-10 20:44:03,894 - isce.mroipac.correlation - INFO - Calculating Correlation
+2018-10-10 20:44:14,328 - isce.mroipac.correlation - INFO - Calculating Correlation
+2018-10-10 20:44:24,340 - isce.mroipac.correlation - INFO - Calculating Correlation
+2018-10-10 20:44:34,268 - isce.mroipac.correlation - INFO - Calculating Correlation
+2018-10-10 20:44:44,227 - isce.mroipac.correlation - INFO - Calculating Correlation
+2018-10-10 20:44:54,111 - isce.mroipac.correlation - INFO - Calculating Correlation
+2018-10-10 20:45:04,143 - isce.mroipac.correlation - INFO - Calculating Correlation
+2018-10-10 20:45:15,771 - isce.mroipac.correlation - INFO - Calculating Correlation
+2018-10-10 20:45:29,922 - isce.mroipac.correlation - INFO - Calculating Correlation
+2018-10-10 20:45:41,935 - isce.mroipac.correlation - INFO - Calculating Correlation
+2018-10-10 20:45:54,067 - isce.mroipac.correlation - INFO - Calculating Correlation
+2018-10-10 20:46:06,643 - isce.mroipac.correlation - INFO - Calculating Correlation
+2018-10-10 20:46:19,055 - isce.mroipac.correlation - INFO - Calculating Correlation
+2018-10-10 20:46:31,462 - isce.mroipac.correlation - INFO - Calculating Correlation
+2018-10-10 20:46:43,936 - isce.mroipac.correlation - INFO - Calculating Correlation
+2018-10-10 20:46:56,389 - isce.mroipac.correlation - INFO - Calculating Correlation
+2018-10-10 20:47:09,265 - isce.mroipac.correlation - INFO - Calculating Correlation
+2018-10-10 20:47:21,031 - isce.mroipac.correlation - INFO - Calculating Correlation
+2018-10-10 20:47:33,489 - isce.mroipac.correlation - INFO - Calculating Correlation
+2018-10-10 20:47:45,652 - isce.mroipac.correlation - INFO - Calculating Correlation
+2018-10-10 20:47:57,971 - isce.mroipac.correlation - INFO - Calculating Correlation
+2018-10-10 20:48:10,410 - isce.mroipac.correlation - INFO - Calculating Correlation
+2018-10-10 20:48:22,733 - isce.mroipac.correlation - INFO - Calculating Correlation
+2018-10-10 20:48:35,028 - isce.mroipac.correlation - INFO - Calculating Correlation
+2018-10-10 20:48:47,496 - isce.mroipac.correlation - INFO - Calculating Correlation
+2018-10-10 20:50:18,007 - isce.topsinsar.runFilter - INFO - Applying power-spectral filter
+2018-10-10 20:50:18,018 - isce.mroipac.filter - DEBUG - width: 3557
+2018-10-10 20:50:18,018 - isce.mroipac.filter - DEBUG - length: 1814
+2018-10-10 20:50:18,018 - isce.mroipac.filter - DEBUG - input: merged/topophase.flat
+2018-10-10 20:50:18,019 - isce.mroipac.filter - DEBUG - output: merged/filt_topophase.flat
+2018-10-10 20:50:18,019 - isce.mroipac.filter - DEBUG - filter strength: 0.5
+2018-10-10 20:50:18,019 - isce.mroipac.filter - INFO - Filtering interferogram
+2018-10-10 20:57:09,574 - isce.topsinsar.runGeocode - INFO - Geocoding Image
+2018-10-10 20:58:02,534 - isce.topsinsar.runGeocode - INFO - 
+####################################################################################################
+    runGeocode
+----------------------------------------------------------------------------------------------------
+geocode.Azimuth looks = 7
+geocode.Dem Used = demLat_N09_N14_Lon_W068_W064.dem.wgs84.wgs84
+geocode.East = -64.19954545454546
+geocode.Geocoding:  = merged/filt_topophase.unw.conncomp
+geocode.Length = 1814
+geocode.North = 12.47409090909091
+geocode.Output file:  = merged/filt_topophase.unw.conncomp.geo
+geocode.Range looks = 19
+geocode.South = 10.544
+geocode.West = -66.83081818181819
+geocode.Width = 3557
+####################################################################################################
